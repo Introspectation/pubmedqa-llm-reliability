@@ -1,0 +1,11 @@
+{
+  "dataset_repo": "qiaojin/PubMedQA",
+  "dataset_config": "pqa_labeled",
+  "dataset_split": "train",
+  "dataset_revision": "323752ad243ce751ba75c9222d34a3130d080030",
+  "dataset_file": "pqa_labeled/train-00000-of-00001.parquet",
+  "dataset_file_sha256": "3d56bd1abc11884579ecc3aab9dd3cdfce8b7cf54715daeca93b8022b7be231c",
+  "official_revision": "1cbae8e92f72f20c8d3747cbb3bf5bc53554d997",
+  "official_test_url": "https://raw.githubusercontent.com/pubmedqa/pubmedqa/1cbae8e92f72f20c8d3747cbb3bf5bc53554d997/data/test_ground_truth.json",
+  "test_pmids_sha256": "47849e7e0720ae18baf9d49e35c40a1a4975eb277c5d2ceb917b57b7ad7f72fb"
+}

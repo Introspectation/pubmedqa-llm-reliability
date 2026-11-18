@@ -1,0 +1,23 @@
+{
+  "config": {
+    "model": "ministral-3:latest",
+    "model_digest": "1922accd5827ebe6829e536369195db25eaf664528dc66206d646ea3bb386b71",
+    "ollama_version": "0.40.13",
+    "options": {
+      "temperature": 0
+    },
+    "format": "json",
+    "no_think": false,
+    "pilot_ids_sha256": "c200ffd38805093093f92edcff87fe92309081d8726c4c8040d7b9bd454a1fd3",
+    "pilot_inputs_sha256": "ffbe8839408ef27fe2ffbe781f8ebd99a72cf8f6ab584cb887d9d062e74effa9",
+    "rubric_sha256": "7f33a351a87c9d41ab127a5fbde0e08a726eeeb929cb3ecb03d4b024a2205721",
+    "script_sha256": "9583d5720153a22bfada8189d7d639f913d0c003f2e2b37be8c9dc82e85d81e8"
+  },
+  "started_at_utc": "2026-11-01T13:24:37.217730+00:00",
+  "resume_count": 0,
+  "gold_blind": true,
+  "status": "completed",
+  "completed_cases": 20,
+  "finished_at_utc": "2026-11-01T13:26:32.557318+00:00",
+  "invalid_outputs": 0
+}

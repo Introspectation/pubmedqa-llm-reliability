@@ -1,0 +1,7016 @@
+{
+  "predictions": [
+    {
+      "pmid": "7482275",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.9662654399871826,
+        "no": -1.872515320777893,
+        "maybe": -0.23189033567905426
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.05158477649092674,
+        "no": 0.15400367975234985,
+        "maybe": 0.7944114804267883
+      }
+    },
+    {
+      "pmid": "7497757",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.8054990768432617,
+        "no": -0.07112401723861694,
+        "maybe": -4.836749076843262
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.06049136444926262,
+        "no": 0.9315739274024963,
+        "maybe": 0.00793473981320858
+      }
+    },
+    {
+      "pmid": "7547656",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1297340989112854,
+        "no": -3.9109840393066406,
+        "maybe": -2.3016090393066406
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8796948194503784,
+        "no": 0.020051922649145126,
+        "maybe": 0.10025330632925034
+      }
+    },
+    {
+      "pmid": "7664228",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.687751770019531,
+        "no": -0.0002522150462027639,
+        "maybe": -8.469001770019531
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.282320747326594e-05,
+        "no": 0.9997673630714417,
+        "maybe": 0.000209878315217793
+      }
+    },
+    {
+      "pmid": "7860319",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.1044654846191406,
+        "no": -5.588840484619141,
+        "maybe": -0.13571545481681824
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.12206447124481201,
+        "no": 0.0037440741434693336,
+        "maybe": 0.874191403388977
+      }
+    },
+    {
+      "pmid": "8165771",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2260371893644333,
+        "no": -11.78853702545166,
+        "maybe": -1.6010371446609497
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7981806993484497,
+        "no": 7.595760962431086e-06,
+        "maybe": 0.20181168615818024
+      }
+    },
+    {
+      "pmid": "8199520",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.175119400024414,
+        "no": -0.003244138788431883,
+        "maybe": -5.831368923187256
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0002815794723574072,
+        "no": 0.9967843294143677,
+        "maybe": 0.0029341254848986864
+      }
+    },
+    {
+      "pmid": "8375607",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005431892815977335,
+        "no": -14.22418212890625,
+        "maybe": -5.22418212890625
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.99461430311203,
+        "no": 6.645536245741823e-07,
+        "maybe": 0.005384933669120073
+      }
+    },
+    {
+      "pmid": "8521557",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.4166525602340698,
+        "no": -0.6822775602340698,
+        "maybe": -1.3854025602340698
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2429589033126831,
+        "no": 0.5063698291778564,
+        "maybe": 0.25067123770713806
+      }
+    },
+    {
+      "pmid": "8566975",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.116673946380615,
+        "no": -0.06979905068874359,
+        "maybe": -2.7104239463806152
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0008115412783809006,
+        "no": 0.9326732754707336,
+        "maybe": 0.06651516258716583
+      }
+    },
+    {
+      "pmid": "8738894",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.6330251693725586,
+        "no": -5.429900169372559,
+        "maybe": -0.7736501693725586
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5327450037002563,
+        "no": 0.004398079123347998,
+        "maybe": 0.4628569185733795
+      }
+    },
+    {
+      "pmid": "8847047",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.001164436340332,
+        "no": -0.07928913086652756,
+        "maybe": -2.579289197921753
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00033509370405226946,
+        "no": 0.9238321185112,
+        "maybe": 0.07583275437355042
+      }
+    },
+    {
+      "pmid": "8910148",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.369783639907837,
+        "no": -1.541658639907837,
+        "maybe": -0.36978358030319214
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.09364980459213257,
+        "no": 0.21436654031276703,
+        "maybe": 0.6919836401939392
+      }
+    },
+    {
+      "pmid": "8916748",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8348512649536133,
+        "no": -2.8504762649536133,
+        "maybe": -0.6786012649536133
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4343377947807312,
+        "no": 0.05786990374326706,
+        "maybe": 0.5077922940254211
+      }
+    },
+    {
+      "pmid": "8921484",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5464445352554321,
+        "no": -4.687069416046143,
+        "maybe": -0.8901945352554321
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5797037482261658,
+        "no": 0.009224769659340382,
+        "maybe": 0.4110714793205261
+      }
+    },
+    {
+      "pmid": "9100537",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.837417483329773,
+        "no": -6.9311676025390625,
+        "maybe": -0.571792483329773
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.43355682492256165,
+        "no": 0.000978507217951119,
+        "maybe": 0.5654646754264832
+      }
+    },
+    {
+      "pmid": "9142039",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.024444254115223885,
+        "no": -11.383819580078125,
+        "maybe": -3.727569341659546
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9759352803230286,
+        "no": 1.137908020609757e-05,
+        "maybe": 0.02405327931046486
+      }
+    },
+    {
+      "pmid": "9199905",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.3466445505619049,
+        "no": -3.581019639968872,
+        "maybe": -1.3310195207595825
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7076852321624756,
+        "no": 0.027872050181031227,
+        "maybe": 0.26444268226623535
+      }
+    },
+    {
+      "pmid": "9363244",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.496976375579834,
+        "no": -0.5282261967658997,
+        "maybe": -0.9032261967658997
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004103213548660278,
+        "no": 0.5902347564697266,
+        "maybe": 0.40566205978393555
+      }
+    },
+    {
+      "pmid": "9427037",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.23712775111198425,
+        "no": -6.659002780914307,
+        "maybe": -1.5652527809143066
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7895156741142273,
+        "no": 0.0012834409717470407,
+        "maybe": 0.20920084416866302
+      }
+    },
+    {
+      "pmid": "9465206",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.9126712083816528,
+        "no": -0.5845462083816528,
+        "maybe": -1.2251712083816528
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1478699892759323,
+        "no": 0.5580554604530334,
+        "maybe": 0.29407456517219543
+      }
+    },
+    {
+      "pmid": "9483814",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.4911473989486694,
+        "no": -3.772397518157959,
+        "maybe": -0.2880224287509918
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.22559791803359985,
+        "no": 0.023046277463436127,
+        "maybe": 0.7513558268547058
+      }
+    },
+    {
+      "pmid": "9488747",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.3537081480026245,
+        "no": -9.572458267211914,
+        "maybe": -1.2130831480026245
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7024810910224915,
+        "no": 6.965982902329415e-05,
+        "maybe": 0.2974492311477661
+      }
+    },
+    {
+      "pmid": "9542484",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.315823554992676,
+        "no": -0.003323866054415703,
+        "maybe": -5.722074031829834
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.310548345325515e-05,
+        "no": 0.9966939687728882,
+        "maybe": 0.003272956470027566
+      }
+    },
+    {
+      "pmid": "9582182",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.735257148742676,
+        "no": -0.0008821171941235662,
+        "maybe": -7.063382148742676
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.176400630560238e-05,
+        "no": 0.9991223216056824,
+        "maybe": 0.00085588195361197
+      }
+    },
+    {
+      "pmid": "9603166",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.386451482772827,
+        "no": -0.27707648277282715,
+        "maybe": -1.9020764827728271
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.09202808886766434,
+        "no": 0.7585956454277039,
+        "maybe": 0.14937631785869598
+      }
+    },
+    {
+      "pmid": "9616411",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0010525407269597054,
+        "no": -14.829177856445312,
+        "maybe": -6.891677379608154
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9989833235740662,
+        "no": 3.6289867466621217e-07,
+        "maybe": 0.0010162435937672853
+      }
+    },
+    {
+      "pmid": "9722752",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.190988063812256,
+        "no": -1.2847381830215454,
+        "maybe": -0.3472381830215454
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.015154186636209488,
+        "no": 0.27714112401008606,
+        "maybe": 0.7077046632766724
+      }
+    },
+    {
+      "pmid": "9920954",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.02164829708635807,
+        "no": -10.677898406982422,
+        "maybe": -3.849773406982422
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9786900877952576,
+        "no": 2.305125781276729e-05,
+        "maybe": 0.02128686010837555
+      }
+    },
+    {
+      "pmid": "10135926",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.6937625408172607,
+        "no": -1.8343875408172607,
+        "maybe": -0.42813754081726074
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.18470211327075958,
+        "no": 0.16047199070453644,
+        "maybe": 0.6548258662223816
+      }
+    },
+    {
+      "pmid": "10158597",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2598205506801605,
+        "no": -10.900445938110352,
+        "maybe": -1.478570580482483
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7718291878700256,
+        "no": 1.846530540206004e-05,
+        "maybe": 0.22815227508544922
+      }
+    },
+    {
+      "pmid": "10173769",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.838075160980225,
+        "no": -0.04120011255145073,
+        "maybe": -3.2443251609802246
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0010724824387580156,
+        "no": 0.9599210619926453,
+        "maybe": 0.03900641202926636
+      }
+    },
+    {
+      "pmid": "10201555",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0009625093080103397,
+        "no": -15.610337257385254,
+        "maybe": -7.000962734222412
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9990888833999634,
+        "no": 1.6616466780305927e-07,
+        "maybe": 0.0009110511164180934
+      }
+    },
+    {
+      "pmid": "10223070",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1790381520986557,
+        "no": -8.444663047790527,
+        "maybe": -1.819663166999817
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8374394774436951,
+        "no": 0.00021539624140132219,
+        "maybe": 0.1623450368642807
+      }
+    },
+    {
+      "pmid": "10331115",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.033587560057640076,
+        "no": -8.033587455749512,
+        "maybe": -3.4242124557495117
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9670964479446411,
+        "no": 0.0003244247054681182,
+        "maybe": 0.032579172402620316
+      }
+    },
+    {
+      "pmid": "10375486",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.229614019393921,
+        "no": -0.24523907899856567,
+        "maybe": -1.729614019393921
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.03959482163190842,
+        "no": 0.7829535603523254,
+        "maybe": 0.17745168507099152
+      }
+    },
+    {
+      "pmid": "10381996",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.391443252563477,
+        "no": -0.0008180370787158608,
+        "maybe": -7.235193252563477
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.343609079020098e-05,
+        "no": 0.9991957545280457,
+        "maybe": 0.0007207778398878872
+      }
+    },
+    {
+      "pmid": "10401824",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8854300379753113,
+        "no": -5.541679859161377,
+        "maybe": -0.5416800379753113
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4132695496082306,
+        "no": 0.003926899284124374,
+        "maybe": 0.58280348777771
+      }
+    },
+    {
+      "pmid": "10456814",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.2734532356262207,
+        "no": -0.6015783548355103,
+        "maybe": -1.0547033548355103
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.10303868353366852,
+        "no": 0.5483859777450562,
+        "maybe": 0.3485753536224365
+      }
+    },
+    {
+      "pmid": "10490564",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.15688836574554443,
+        "no": -8.485013008117676,
+        "maybe": -1.9381383657455444
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8556742072105408,
+        "no": 0.00020675199630204588,
+        "maybe": 0.1441190540790558
+      }
+    },
+    {
+      "pmid": "10548670",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.3574223518371582,
+        "no": -0.4199223816394806,
+        "maybe": -2.466797351837158
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.25750935077667236,
+        "no": 0.6575731635093689,
+        "maybe": 0.0849175676703453
+      }
+    },
+    {
+      "pmid": "10749257",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0015770867466926575,
+        "no": -12.673452377319336,
+        "maybe": -6.470326900482178
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9984481334686279,
+        "no": 3.133286782031064e-06,
+        "maybe": 0.001548756379634142
+      }
+    },
+    {
+      "pmid": "10781708",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.8738491535186768,
+        "no": -1.0457240343093872,
+        "maybe": -0.4675990641117096
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.020804865285754204,
+        "no": 0.35188761353492737,
+        "maybe": 0.6273074746131897
+      }
+    },
+    {
+      "pmid": "10798511",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.4303174018859863,
+        "no": -0.14906729757785797,
+        "maybe": -2.9928174018859863
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.08803830295801163,
+        "no": 0.8617989420890808,
+        "maybe": 0.05016271024942398
+      }
+    },
+    {
+      "pmid": "10834864",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.714449882507324,
+        "no": -0.011324532330036163,
+        "maybe": -4.495699405670166
+      },
+      "conditional_label_probabilities": {
+        "yes": 6.0406960983527824e-05,
+        "no": 0.9887822270393372,
+        "maybe": 0.011157357133924961
+      }
+    },
+    {
+      "pmid": "10877371",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.06460998207330704,
+        "no": -8.00210952758789,
+        "maybe": -2.783360004425049
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9378097653388977,
+        "no": 0.0003348902682773769,
+        "maybe": 0.0618552602827549
+      }
+    },
+    {
+      "pmid": "10922093",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.379223108291626,
+        "no": -0.379223108291626,
+        "maybe": -1.269848108291626
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.034096382558345795,
+        "no": 0.6848441362380981,
+        "maybe": 0.28105947375297546
+      }
+    },
+    {
+      "pmid": "10966943",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.02720213681459427,
+        "no": -5.917827129364014,
+        "maybe": -3.7303271293640137
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9733196496963501,
+        "no": 0.0026914700865745544,
+        "maybe": 0.023988813161849976
+      }
+    },
+    {
+      "pmid": "10973547",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.030123412609100342,
+        "no": -9.608248710632324,
+        "maybe": -3.530123472213745
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9706225395202637,
+        "no": 6.719292287016287e-05,
+        "maybe": 0.029310259968042374
+      }
+    },
+    {
+      "pmid": "11035130",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.133670806884766,
+        "no": -0.25867101550102234,
+        "maybe": -1.5086710453033447
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0058997441083192825,
+        "no": 0.7727140188217163,
+        "maybe": 0.22138628363609314
+      }
+    },
+    {
+      "pmid": "11079675",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.9165616035461426,
+        "no": -0.197811558842659,
+        "maybe": -1.8384366035461426
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.019919399172067642,
+        "no": 0.8209351301193237,
+        "maybe": 0.1591455191373825
+      }
+    },
+    {
+      "pmid": "11138995",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -11.70871353149414,
+        "no": -0.0055889771319925785,
+        "maybe": -5.193089008331299
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.221945790864993e-06,
+        "no": 0.9944368600845337,
+        "maybe": 0.005554879084229469
+      }
+    },
+    {
+      "pmid": "11146778",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.7043914794921875,
+        "no": -0.6887665390968323,
+        "maybe": -0.8450165390968323
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.06700104475021362,
+        "no": 0.5028707385063171,
+        "maybe": 0.43012818694114685
+      }
+    },
+    {
+      "pmid": "11411430",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.015045495703816414,
+        "no": -10.983795166015625,
+        "maybe": -4.218170642852783
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9852545261383057,
+        "no": 1.6977779523585923e-05,
+        "maybe": 0.014728362672030926
+      }
+    },
+    {
+      "pmid": "11438275",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.048347473144531,
+        "no": -0.03272241726517677,
+        "maybe": -3.4702224731445312
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0008690294926054776,
+        "no": 0.9680142402648926,
+        "maybe": 0.03111676685512066
+      }
+    },
+    {
+      "pmid": "11458136",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.976444721221924,
+        "no": -0.0076944874599576,
+        "maybe": -5.007694721221924
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0009336589719168842,
+        "no": 0.9923797845840454,
+        "maybe": 0.0066866022534668446
+      }
+    },
+    {
+      "pmid": "11481172",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.009397675283253193,
+        "no": -11.946897506713867,
+        "maybe": -4.681272506713867
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.990725576877594,
+        "no": 6.479820513050072e-06,
+        "maybe": 0.009267952293157578
+      }
+    },
+    {
+      "pmid": "11481599",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.4703778028488159,
+        "no": -5.0328779220581055,
+        "maybe": -1.001627802848816
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6256625652313232,
+        "no": 0.006529375445097685,
+        "maybe": 0.3678080439567566
+      }
+    },
+    {
+      "pmid": "11483547",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.696526527404785,
+        "no": -0.0246513020247221,
+        "maybe": -3.868401288986206
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0033579461742192507,
+        "no": 0.9757482409477234,
+        "maybe": 0.020893843844532967
+      }
+    },
+    {
+      "pmid": "11567820",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.061002731323242,
+        "no": -3.561002731323242,
+        "maybe": -0.1703777015209198
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1274431347846985,
+        "no": 0.028436405584216118,
+        "maybe": 0.8441205024719238
+      }
+    },
+    {
+      "pmid": "11570976",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.0636805295944214,
+        "no": -3.266805410385132,
+        "maybe": -0.485555499792099
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.3456439971923828,
+        "no": 0.038178950548172,
+        "maybe": 0.6161770820617676
+      }
+    },
+    {
+      "pmid": "11833948",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.9091923236846924,
+        "no": -0.8935673832893372,
+        "maybe": -0.6279423832893372
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.05466175824403763,
+        "no": 0.41025927662849426,
+        "maybe": 0.5350789427757263
+      }
+    },
+    {
+      "pmid": "11862129",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.040472984313965,
+        "no": -0.05609767511487007,
+        "maybe": -2.9154727458953857
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00032217343687079847,
+        "no": 0.9454965591430664,
+        "maybe": 0.05418126657605171
+      }
+    },
+    {
+      "pmid": "11867487",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.869533538818359,
+        "no": -0.26015862822532654,
+        "maybe": -1.478908658027649
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0010391128016635776,
+        "no": 0.7710414528846741,
+        "maybe": 0.22791941463947296
+      }
+    },
+    {
+      "pmid": "11926574",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5586791634559631,
+        "no": -7.089929103851318,
+        "maybe": -0.8555541634559631
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5731992125511169,
+        "no": 0.0008352562435902655,
+        "maybe": 0.42596548795700073
+      }
+    },
+    {
+      "pmid": "11943048",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.03372472524642944,
+        "no": -7.736849784851074,
+        "maybe": -3.424349784851074
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9669879674911499,
+        "no": 0.0004365122294984758,
+        "maybe": 0.032575517892837524
+      }
+    },
+    {
+      "pmid": "11955750",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.463217735290527,
+        "no": -0.0569678395986557,
+        "maybe": -2.9788427352905273
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004241095390170813,
+        "no": 0.9448928236961365,
+        "maybe": 0.05086608976125717
+      }
+    },
+    {
+      "pmid": "11970923",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.923356533050537,
+        "no": -3.298356533050537,
+        "maybe": -0.2046065628528595
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.14640448987483978,
+        "no": 0.0370168499648571,
+        "maybe": 0.8165786266326904
+      }
+    },
+    {
+      "pmid": "11977907",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.043112270534038544,
+        "no": -6.168112277984619,
+        "maybe": -3.230612277984619
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9583479166030884,
+        "no": 0.002096377545967698,
+        "maybe": 0.03955574333667755
+      }
+    },
+    {
+      "pmid": "12006913",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.3455915451049805,
+        "no": -0.2518417537212372,
+        "maybe": -1.5643417835235596
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.012969576753675938,
+        "no": 0.7777121067047119,
+        "maybe": 0.2093183696269989
+      }
+    },
+    {
+      "pmid": "12040336",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.485665321350098,
+        "no": -0.0012906801421195269,
+        "maybe": -6.688790798187256
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.793448766169604e-05,
+        "no": 0.9987272620201111,
+        "maybe": 0.0012448086636140943
+      }
+    },
+    {
+      "pmid": "12070552",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.819268703460693,
+        "no": -0.006768869701772928,
+        "maybe": -5.600518703460693
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0029700142331421375,
+        "no": 0.9933337569236755,
+        "maybe": 0.0036962423473596573
+      }
+    },
+    {
+      "pmid": "12090319",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.731950759887695,
+        "no": -0.013200627639889717,
+        "maybe": -4.372575759887695
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00043861259473487735,
+        "no": 0.9869419932365417,
+        "maybe": 0.012619411572813988
+      }
+    },
+    {
+      "pmid": "12094116",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.9275624752044678,
+        "no": -7.349437713623047,
+        "maybe": -0.02131250500679016
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.01970643736422062,
+        "no": 0.0006434380193240941,
+        "maybe": 0.9796500205993652
+      }
+    },
+    {
+      "pmid": "12098035",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.09964316338300705,
+        "no": -6.334018230438232,
+        "maybe": -2.3808932304382324
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9057008624076843,
+        "no": 0.0017759476322680712,
+        "maybe": 0.09252317249774933
+      }
+    },
+    {
+      "pmid": "12121321",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.05974831432104111,
+        "no": -5.62224817276001,
+        "maybe": -2.919123411178589
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.942379355430603,
+        "no": 0.003617951413616538,
+        "maybe": 0.05400263890624046
+      }
+    },
+    {
+      "pmid": "12145243",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.008004019036889076,
+        "no": -10.367379188537598,
+        "maybe": -4.851754188537598
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9921528697013855,
+        "no": 3.1445553759112954e-05,
+        "maybe": 0.007815643213689327
+      }
+    },
+    {
+      "pmid": "12163782",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.008417720906436443,
+        "no": -14.086543083190918,
+        "maybe": -4.78966760635376
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9916834831237793,
+        "no": 7.626426281603926e-07,
+        "maybe": 0.008315772749483585
+      }
+    },
+    {
+      "pmid": "12172698",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.024141788482666,
+        "no": -0.8053916692733765,
+        "maybe": -0.8678916692733765
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.13225850462913513,
+        "no": 0.4474247992038727,
+        "maybe": 0.4203166961669922
+      }
+    },
+    {
+      "pmid": "12221908",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0706101730465889,
+        "no": -8.836235046386719,
+        "maybe": -2.695610284805298
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9323176145553589,
+        "no": 0.000145445839734748,
+        "maybe": 0.0675368681550026
+      }
+    },
+    {
+      "pmid": "12377809",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.001434131758287549,
+        "no": -15.173309326171875,
+        "maybe": -6.563934326171875
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9985893368721008,
+        "no": 2.572322159721807e-07,
+        "maybe": 0.0014103581197559834
+      }
+    },
+    {
+      "pmid": "12380309",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.980875015258789,
+        "no": -2.418375015258789,
+        "maybe": -0.15275011956691742
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.05084201321005821,
+        "no": 0.08923051506280899,
+        "maybe": 0.8599274754524231
+      }
+    },
+    {
+      "pmid": "12407608",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.003925595432519913,
+        "no": -12.847675323486328,
+        "maybe": -5.550800800323486
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9961129426956177,
+        "no": 2.6323209567635786e-06,
+        "maybe": 0.003884466364979744
+      }
+    },
+    {
+      "pmid": "12419743",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.7105202674865723,
+        "no": -0.6948953866958618,
+        "maybe": -0.8355203866958618
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.06655026227235794,
+        "no": 0.4994874596595764,
+        "maybe": 0.43396222591400146
+      }
+    },
+    {
+      "pmid": "12442934",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.003927257843315601,
+        "no": -14.347677230834961,
+        "maybe": -5.550802230834961
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.99611496925354,
+        "no": 5.873513941878628e-07,
+        "maybe": 0.003884474281221628
+      }
+    },
+    {
+      "pmid": "12484580",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.001293299370445311,
+        "no": -15.204418182373047,
+        "maybe": -6.673168182373047
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9987353682518005,
+        "no": 2.493544570825179e-07,
+        "maybe": 0.0012644216185435653
+      }
+    },
+    {
+      "pmid": "12595848",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0012817509705200791,
+        "no": -12.23565673828125,
+        "maybe": -6.68878173828125
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9987502098083496,
+        "no": 4.854397502640495e-06,
+        "maybe": 0.0012448371853679419
+      }
+    },
+    {
+      "pmid": "12630042",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.6720877885818481,
+        "no": -4.187712669372559,
+        "maybe": -0.7502127885818481
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5116193890571594,
+        "no": 0.015210043638944626,
+        "maybe": 0.47317057847976685
+      }
+    },
+    {
+      "pmid": "12632437",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.008302814327180386,
+        "no": -14.352052688598633,
+        "maybe": -4.805177688598633
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9918115139007568,
+        "no": 5.848139039699163e-07,
+        "maybe": 0.008187904953956604
+      }
+    },
+    {
+      "pmid": "12765819",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.17024891078472137,
+        "no": -9.435873985290527,
+        "maybe": -1.8577488660812378
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8438277244567871,
+        "no": 7.984431431395933e-05,
+        "maybe": 0.15609243512153625
+      }
+    },
+    {
+      "pmid": "12769830",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.1620166301727295,
+        "no": -4.78701639175415,
+        "maybe": -0.05264155566692352
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.04236579313874245,
+        "no": 0.008342319168150425,
+        "maybe": 0.9492918252944946
+      }
+    },
+    {
+      "pmid": "12790890",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.49524974822998,
+        "no": -0.08899998664855957,
+        "maybe": -2.4639999866485596
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.7668465918395668e-05,
+        "no": 0.9148756265640259,
+        "maybe": 0.08509668707847595
+      }
+    },
+    {
+      "pmid": "12805495",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.74373722076416,
+        "no": -2.83748722076416,
+        "maybe": -0.08748718351125717
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.02370178885757923,
+        "no": 0.05866248533129692,
+        "maybe": 0.9176356792449951
+      }
+    },
+    {
+      "pmid": "12846929",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.8608440160751343,
+        "no": -1.2045940160751343,
+        "maybe": -0.6108440160751343
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.15581437945365906,
+        "no": 0.30034005641937256,
+        "maybe": 0.5438455939292908
+      }
+    },
+    {
+      "pmid": "12848629",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.013583256863057613,
+        "no": -11.122958183288574,
+        "maybe": -4.310458183288574
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9865570664405823,
+        "no": 1.4770048437640071e-05,
+        "maybe": 0.013428055681288242
+      }
+    },
+    {
+      "pmid": "12913878",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005141369998455048,
+        "no": -14.630141258239746,
+        "maybe": -5.286391258239746
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9949392080307007,
+        "no": 4.428327429195633e-07,
+        "maybe": 0.00506032956764102
+      }
+    },
+    {
+      "pmid": "12963175",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.03960195928812027,
+        "no": -11.789602279663086,
+        "maybe": -3.258352041244507
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9615265130996704,
+        "no": 7.585794264741708e-06,
+        "maybe": 0.03846590220928192
+      }
+    },
+    {
+      "pmid": "12970636",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.8322197198867798,
+        "no": -1.3478447198867798,
+        "maybe": -1.1915947198867798
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.43568435311317444,
+        "no": 0.2601589858531952,
+        "maybe": 0.30415669083595276
+      }
+    },
+    {
+      "pmid": "14551704",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.007066258694976568,
+        "no": -15.41331672668457,
+        "maybe": -4.960191249847412
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9929879307746887,
+        "no": 2.023459870770239e-07,
+        "maybe": 0.007011793553829193
+      }
+    },
+    {
+      "pmid": "14599616",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.05764235928654671,
+        "no": -10.760766983032227,
+        "maybe": -2.8857674598693848
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9441567659378052,
+        "no": 2.1219540940364823e-05,
+        "maybe": 0.05582195147871971
+      }
+    },
+    {
+      "pmid": "14627582",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.245762348175049,
+        "no": -0.042637284845113754,
+        "maybe": -3.230137348175049
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0019391376990824938,
+        "no": 0.9584988951683044,
+        "maybe": 0.03956197574734688
+      }
+    },
+    {
+      "pmid": "14631523",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.175861358642578,
+        "no": -0.019611503928899765,
+        "maybe": -3.9883615970611572
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0007649226463399827,
+        "no": 0.9807026982307434,
+        "maybe": 0.01853237673640251
+      }
+    },
+    {
+      "pmid": "14652839",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.0605316162109375,
+        "no": -0.1074066013097763,
+        "maybe": -2.2949066162109375
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0008585024625062943,
+        "no": 0.8983495235443115,
+        "maybe": 0.10079201310873032
+      }
+    },
+    {
+      "pmid": "14692023",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.04723908379673958,
+        "no": -13.812864303588867,
+        "maybe": -3.078489065170288
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9539650678634644,
+        "no": 1.0027611097029876e-06,
+        "maybe": 0.04603385180234909
+      }
+    },
+    {
+      "pmid": "14697414",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.08173920959234238,
+        "no": -8.90986442565918,
+        "maybe": -2.5504891872406006
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9217972755432129,
+        "no": 0.00013509193377103657,
+        "maybe": 0.07806761562824249
+      }
+    },
+    {
+      "pmid": "14872327",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0011928117601200938,
+        "no": -13.657443046569824,
+        "maybe": -6.782443046569824
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9988652467727661,
+        "no": 1.1713127605617046e-06,
+        "maybe": 0.0011335676535964012
+      }
+    },
+    {
+      "pmid": "14968373",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.4679441452026367,
+        "no": -5.733569145202637,
+        "maybe": -0.09294402599334717
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.08482349663972855,
+        "no": 0.0032379734329879284,
+        "maybe": 0.9119385480880737
+      }
+    },
+    {
+      "pmid": "15041506",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.04575806483626366,
+        "no": -12.280133247375488,
+        "maybe": -3.108258008956909
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9553146958351135,
+        "no": 4.643280590244103e-06,
+        "maybe": 0.04468066617846489
+      }
+    },
+    {
+      "pmid": "15050326",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.00520896865054965,
+        "no": -13.114583969116211,
+        "maybe": -5.270833969116211
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9948583841323853,
+        "no": 2.0157287963229464e-06,
+        "maybe": 0.0051396009512245655
+      }
+    },
+    {
+      "pmid": "15052394",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.844080924987793,
+        "no": -0.0003305127320345491,
+        "maybe": -8.109705924987793
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.9520017303875647e-05,
+        "no": 0.9996799230575562,
+        "maybe": 0.00030061049619689584
+      }
+    },
+    {
+      "pmid": "15053041",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.345234870910645,
+        "no": -0.0014848408754915,
+        "maybe": -6.5483598709106445
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.2146221201401204e-05,
+        "no": 0.9985353946685791,
+        "maybe": 0.0014324906514957547
+      }
+    },
+    {
+      "pmid": "15095519",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.911085605621338,
+        "no": -0.9110856652259827,
+        "maybe": -0.8017106652259827
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1481318175792694,
+        "no": 0.4026639759540558,
+        "maybe": 0.44920414686203003
+      }
+    },
+    {
+      "pmid": "15151701",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2062794715166092,
+        "no": -6.643779277801514,
+        "maybe": -1.6906545162200928
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8141703009605408,
+        "no": 0.0013030003756284714,
+        "maybe": 0.18452677130699158
+      }
+    },
+    {
+      "pmid": "15208005",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.007012398913502693,
+        "no": -13.772637367248535,
+        "maybe": -4.975762367248535
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9930950999259949,
+        "no": 1.0438926665301551e-06,
+        "maybe": 0.006903831381350756
+      }
+    },
+    {
+      "pmid": "15223779",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.010470458306372166,
+        "no": -14.041720390319824,
+        "maybe": -4.572970390319824
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9896710515022278,
+        "no": 7.976206006787834e-07,
+        "maybe": 0.010328144766390324
+      }
+    },
+    {
+      "pmid": "15388567",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.4003376960754395,
+        "no": -0.2753376066684723,
+        "maybe": -1.47846257686615
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.012278391048312187,
+        "no": 0.759637176990509,
+        "maybe": 0.22808443009853363
+      }
+    },
+    {
+      "pmid": "15488260",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.02945009060204029,
+        "no": -11.420075416564941,
+        "maybe": -3.5450751781463623
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9711183905601501,
+        "no": 1.097454696719069e-05,
+        "maybe": 0.028870590031147003
+      }
+    },
+    {
+      "pmid": "15489384",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.704915463924408,
+        "no": -6.470540523529053,
+        "maybe": -0.689290463924408
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.49532386660575867,
+        "no": 0.0015520657179877162,
+        "maybe": 0.5031240582466125
+      }
+    },
+    {
+      "pmid": "15502995",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.4406538009643555,
+        "no": -0.018778637051582336,
+        "maybe": -4.0812788009643555
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.001595558482222259,
+        "no": 0.9815164804458618,
+        "maybe": 0.016887923702597618
+      }
+    },
+    {
+      "pmid": "15528969",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.23748372495174408,
+        "no": -6.549983501434326,
+        "maybe": -1.5656087398529053
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7893986105918884,
+        "no": 0.0014315694570541382,
+        "maybe": 0.20916981995105743
+      }
+    },
+    {
+      "pmid": "15597845",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.07031042873859406,
+        "no": -13.367185592651367,
+        "maybe": -2.695310354232788
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9324518442153931,
+        "no": 1.5662711803088314e-06,
+        "maybe": 0.06754658371210098
+      }
+    },
+    {
+      "pmid": "15708048",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0011024356354027987,
+        "no": -14.797977447509766,
+        "maybe": -6.829227447509766
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9989179372787476,
+        "no": 3.743937782019202e-07,
+        "maybe": 0.0010817149886861444
+      }
+    },
+    {
+      "pmid": "15774570",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.4592318534851074,
+        "no": -1.9436068534851074,
+        "maybe": -0.47485679388046265
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.23297961056232452,
+        "no": 0.1435345858335495,
+        "maybe": 0.623485803604126
+      }
+    },
+    {
+      "pmid": "15841770",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.32110679149627686,
+        "no": -2.1648569107055664,
+        "maybe": -1.8367317914962769
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7257453203201294,
+        "no": 0.11482957750558853,
+        "maybe": 0.15942509472370148
+      }
+    },
+    {
+      "pmid": "15918864",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.5897527933120728,
+        "no": -4.355377674102783,
+        "maybe": -0.24600277841091156
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.20423467457294464,
+        "no": 0.012853866443037987,
+        "maybe": 0.7829115390777588
+      }
+    },
+    {
+      "pmid": "15919266",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.065570831298828,
+        "no": -0.003071236191317439,
+        "maybe": -5.831196308135986
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00011557916877791286,
+        "no": 0.9969498515129089,
+        "maybe": 0.0029346125666052103
+      }
+    },
+    {
+      "pmid": "15943725",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.009134644642472267,
+        "no": -7.962259769439697,
+        "maybe": -4.743509769439697
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9909432530403137,
+        "no": 0.0003483777982182801,
+        "maybe": 0.00870834942907095
+      }
+    },
+    {
+      "pmid": "15995461",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2332518845796585,
+        "no": -5.655127048492432,
+        "maybe": -1.592626929283142
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7928704023361206,
+        "no": 0.003503578482195735,
+        "maybe": 0.20362597703933716
+      }
+    },
+    {
+      "pmid": "16046584",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.021028893068432808,
+        "no": -12.333528518676758,
+        "maybe": -3.880403995513916
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.979349672794342,
+        "no": 4.402374543133192e-06,
+        "maybe": 0.020645838230848312
+      }
+    },
+    {
+      "pmid": "16147837",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0004003438516519964,
+        "no": -16.17227554321289,
+        "maybe": -7.922275543212891
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.999637246131897,
+        "no": 9.472974227264785e-08,
+        "maybe": 0.00036259001353755593
+      }
+    },
+    {
+      "pmid": "16266387",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8772132396697998,
+        "no": -6.189713478088379,
+        "maybe": -0.5490882396697998
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4178345203399658,
+        "no": 0.002059751655906439,
+        "maybe": 0.580105721950531
+      }
+    },
+    {
+      "pmid": "16296668",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.236097574234009,
+        "no": -0.4860976040363312,
+        "maybe": -1.0642225742340088
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.039343200623989105,
+        "no": 0.6154311895370483,
+        "maybe": 0.34522560238838196
+      }
+    },
+    {
+      "pmid": "16392897",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2948630750179291,
+        "no": -6.497988224029541,
+        "maybe": -1.3729881048202515
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7450143694877625,
+        "no": 0.0015072375535964966,
+        "maybe": 0.25347837805747986
+      }
+    },
+    {
+      "pmid": "16403186",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -13.921911239624023,
+        "no": -3.635817120084539e-05,
+        "maybe": -10.312536239624023
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.990663218355621e-07,
+        "no": 0.9999659061431885,
+        "maybe": 3.3214164432138205e-05
+      }
+    },
+    {
+      "pmid": "16418930",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.9943695068359375,
+        "no": -0.11936943233013153,
+        "maybe": -2.3693695068359375
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.018429402261972427,
+        "no": 0.8879783749580383,
+        "maybe": 0.09359222650527954
+      }
+    },
+    {
+      "pmid": "16465002",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.829595565795898,
+        "no": -0.0014704378554597497,
+        "maybe": -6.579595565795898
+      },
+      "conditional_label_probabilities": {
+        "yes": 5.3835989092476666e-05,
+        "no": 0.9985577464103699,
+        "maybe": 0.0013884486397728324
+      }
+    },
+    {
+      "pmid": "16538201",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0016298118280246854,
+        "no": -12.954754829406738,
+        "maybe": -6.454754829406738
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9984245300292969,
+        "no": 2.365072759857867e-06,
+        "maybe": 0.0015731083694845438
+      }
+    },
+    {
+      "pmid": "16678696",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.216745376586914,
+        "no": -0.013620182871818542,
+        "maybe": -4.372995376586914
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0007343206088989973,
+        "no": 0.9866500496864319,
+        "maybe": 0.012615678831934929
+      }
+    },
+    {
+      "pmid": "16713745",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8538523316383362,
+        "no": -9.463227272033691,
+        "maybe": -0.5569773316383362
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4262884259223938,
+        "no": 7.774984260322526e-05,
+        "maybe": 0.5736337900161743
+      }
+    },
+    {
+      "pmid": "16735905",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2638031542301178,
+        "no": -7.670053005218506,
+        "maybe": -1.4669281244277954
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7687211036682129,
+        "no": 0.00046695524360984564,
+        "maybe": 0.23081190884113312
+      }
+    },
+    {
+      "pmid": "16769333",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.3103991448879242,
+        "no": -9.607274055480957,
+        "maybe": -1.3260241746902466
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7340701818466187,
+        "no": 6.73218528390862e-05,
+        "maybe": 0.2658625841140747
+      }
+    },
+    {
+      "pmid": "16772913",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.115130215883255,
+        "no": -7.833880424499512,
+        "maybe": -2.2245051860809326
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8914576768875122,
+        "no": 0.0003961778711527586,
+        "maybe": 0.10814608633518219
+      }
+    },
+    {
+      "pmid": "16776337",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.769429087638855,
+        "no": -6.4569292068481445,
+        "maybe": -0.628804087638855
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4641704559326172,
+        "no": 0.0015726337442174554,
+        "maybe": 0.5342568755149841
+      }
+    },
+    {
+      "pmid": "16778275",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.492340087890625,
+        "no": -0.03921505808830261,
+        "maybe": -3.304840087890625
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0015153572894632816,
+        "no": 0.9617708921432495,
+        "maybe": 0.036713745445013046
+      }
+    },
+    {
+      "pmid": "16809243",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -11.468949317932129,
+        "no": -0.00019941726350225508,
+        "maybe": -8.656449317932129
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.0449728506500833e-05,
+        "no": 0.9998155236244202,
+        "maybe": 0.00017400360957253724
+      }
+    },
+    {
+      "pmid": "16816043",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.128718376159668,
+        "no": -3.394343376159668,
+        "maybe": -0.08184334635734558
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.04382852837443352,
+        "no": 0.03360449895262718,
+        "maybe": 0.9225669503211975
+      }
+    },
+    {
+      "pmid": "16827975",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.03298496827483177,
+        "no": -9.142359733581543,
+        "maybe": -3.439234972000122
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9677956700325012,
+        "no": 0.00010706127068260685,
+        "maybe": 0.03209727257490158
+      }
+    },
+    {
+      "pmid": "16872243",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.228664875030518,
+        "no": -0.009914912283420563,
+        "maybe": -4.697414875030518
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0007255044765770435,
+        "no": 0.9901554584503174,
+        "maybe": 0.009119016118347645
+      }
+    },
+    {
+      "pmid": "16962519",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.645819902420044,
+        "no": -0.3801948130130768,
+        "maybe": -1.2395697832107544
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.026117321103811264,
+        "no": 0.6841818690299988,
+        "maybe": 0.28970083594322205
+      }
+    },
+    {
+      "pmid": "16968876",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.3564157485961914,
+        "no": -0.09079086035490036,
+        "maybe": -2.9657907485961914
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0348743312060833,
+        "no": 0.9135847091674805,
+        "maybe": 0.05154092609882355
+      }
+    },
+    {
+      "pmid": "16971978",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -4.792098479811102e-05,
+        "no": -17.84379768371582,
+        "maybe": -10.39067268371582
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9999692440032959,
+        "no": 1.780510316962136e-08,
+        "maybe": 3.071818355238065e-05
+      }
+    },
+    {
+      "pmid": "17032327",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.346994400024414,
+        "no": -0.0032444954849779606,
+        "maybe": -5.815744400024414
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00023711325775366277,
+        "no": 0.9967825412750244,
+        "maybe": 0.00298032583668828
+      }
+    },
+    {
+      "pmid": "17051586",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -13.078348159790039,
+        "no": -0.0002227773511549458,
+        "maybe": -8.437723159790039
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.090005864374689e-06,
+        "no": 0.9997814297676086,
+        "maybe": 0.000216543601709418
+      }
+    },
+    {
+      "pmid": "17054994",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -13.734782218933105,
+        "no": -0.0004076126788277179,
+        "maybe": -7.812907695770264
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.0840780078069656e-06,
+        "no": 0.9995943903923035,
+        "maybe": 0.000404481019359082
+      }
+    },
+    {
+      "pmid": "17062234",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.407305717468262,
+        "no": -0.0010553987231105566,
+        "maybe": -7.1104302406311035
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00022323393204715103,
+        "no": 0.9989602565765381,
+        "maybe": 0.0008165558101609349
+      }
+    },
+    {
+      "pmid": "17076091",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1780409812927246,
+        "no": -2.3811659812927246,
+        "maybe": -2.6624159812927246
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8376366496086121,
+        "no": 0.09252320230007172,
+        "maybe": 0.06984017789363861
+      }
+    },
+    {
+      "pmid": "17192736",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.07733684778213501,
+        "no": -3.4210867881774902,
+        "maybe": -3.1867117881774902
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9259832501411438,
+        "no": 0.03269120678305626,
+        "maybe": 0.041325557976961136
+      }
+    },
+    {
+      "pmid": "17208539",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.8043617010116577,
+        "no": -3.319986581802368,
+        "maybe": -0.22623667120933533
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.16486600041389465,
+        "no": 0.03621625527739525,
+        "maybe": 0.7989177703857422
+      }
+    },
+    {
+      "pmid": "17274051",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.089336395263672,
+        "no": -0.011211373843252659,
+        "maybe": -4.526836395263672
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0003068016085308045,
+        "no": 0.988878071308136,
+        "maybe": 0.010815128684043884
+      }
+    },
+    {
+      "pmid": "17276182",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.19914309680461884,
+        "no": -9.011643409729004,
+        "maybe": -1.7147680521011353
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8197932243347168,
+        "no": 0.00012203494407003745,
+        "maybe": 0.18008467555046082
+      }
+    },
+    {
+      "pmid": "17306983",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002070903778076172,
+        "no": -14.970821380615234,
+        "maybe": -6.189570903778076
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.997948944568634,
+        "no": 3.149653764467075e-07,
+        "maybe": 0.0020507427398115396
+      }
+    },
+    {
+      "pmid": "17342562",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.435887336730957,
+        "no": -0.014012408442795277,
+        "maybe": -4.404637336730957
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0016031318809837103,
+        "no": 0.9861752390861511,
+        "maybe": 0.012221652083098888
+      }
+    },
+    {
+      "pmid": "17355582",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.049461666494607925,
+        "no": -14.096336364746094,
+        "maybe": -3.033836603164673
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9518625140190125,
+        "no": 7.552554279754986e-07,
+        "maybe": 0.04813673347234726
+      }
+    },
+    {
+      "pmid": "17445978",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.18255124986171722,
+        "no": -4.104426383972168,
+        "maybe": -1.9013012647628784
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8339629173278809,
+        "no": 0.016515739262104034,
+        "maybe": 0.14952132105827332
+      }
+    },
+    {
+      "pmid": "17565137",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.6903690099716187,
+        "no": -5.565369129180908,
+        "maybe": -0.7059940099716187
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.501974880695343,
+        "no": 0.003832625225186348,
+        "maybe": 0.4941924810409546
+      }
+    },
+    {
+      "pmid": "17598882",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.012412087991833687,
+        "no": -11.887412071228027,
+        "maybe": -4.403037071228027
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9877519607543945,
+        "no": 6.877030045870924e-06,
+        "maybe": 0.012241192162036896
+      }
+    },
+    {
+      "pmid": "17621202",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1000748947262764,
+        "no": -6.209449768066406,
+        "maybe": -2.3813250064849854
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9054867625236511,
+        "no": 0.0020119366236031055,
+        "maybe": 0.09250129759311676
+      }
+    },
+    {
+      "pmid": "17682349",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.27107787132263184,
+        "no": -7.614828109741211,
+        "maybe": -1.4429528713226318
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7631070017814636,
+        "no": 0.0004934411263093352,
+        "maybe": 0.23639951646327972
+      }
+    },
+    {
+      "pmid": "17691856",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.2079873085021973,
+        "no": -1.2236123085021973,
+        "maybe": -0.41111236810684204
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.040538616478443146,
+        "no": 0.2948981821537018,
+        "maybe": 0.6645632386207581
+      }
+    },
+    {
+      "pmid": "17894828",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -5.226776599884033,
+        "no": -0.8674015998840332,
+        "maybe": -0.5549015998840332
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0053732749074697495,
+        "no": 0.4202343821525574,
+        "maybe": 0.5743923187255859
+      }
+    },
+    {
+      "pmid": "17910536",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.015609701164066792,
+        "no": -12.593734741210938,
+        "maybe": -4.1718597412109375
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9845720529556274,
+        "no": 3.393417046027025e-06,
+        "maybe": 0.015424498356878757
+      }
+    },
+    {
+      "pmid": "17940352",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.4085412323474884,
+        "no": -5.408541202545166,
+        "maybe": -1.111666202545166
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6658792495727539,
+        "no": 0.004486659076064825,
+        "maybe": 0.3296341001987457
+      }
+    },
+    {
+      "pmid": "17971187",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.903848648071289,
+        "no": -0.12259860336780548,
+        "maybe": -2.185098648071289
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0027294293977320194,
+        "no": 0.8847830891609192,
+        "maybe": 0.1124875396490097
+      }
+    },
+    {
+      "pmid": "18019905",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.1610631942749023,
+        "no": -1.8798131942749023,
+        "maybe": -0.6298132538795471
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.3136351704597473,
+        "no": 0.1528535634279251,
+        "maybe": 0.5335113406181335
+      }
+    },
+    {
+      "pmid": "18041059",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.007252674084156752,
+        "no": -11.27287769317627,
+        "maybe": -4.9447526931762695
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.992866039276123,
+        "no": 1.2714283002424054e-05,
+        "maybe": 0.0071213385090231895
+      }
+    },
+    {
+      "pmid": "18065862",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5613741874694824,
+        "no": -2.8269991874694824,
+        "maybe": -0.9988741874694824
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5716201066970825,
+        "no": 0.05931425467133522,
+        "maybe": 0.36906570196151733
+      }
+    },
+    {
+      "pmid": "18158048",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.5440382957458496,
+        "no": -2.6534132957458496,
+        "maybe": -0.106538325548172
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0289471298456192,
+        "no": 0.07053408026695251,
+        "maybe": 0.9005187749862671
+      }
+    },
+    {
+      "pmid": "18179827",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.0067429542541504,
+        "no": -0.6942428350448608,
+        "maybe": -1.0067428350448608
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.13452191650867462,
+        "no": 0.4998095631599426,
+        "maybe": 0.36566847562789917
+      }
+    },
+    {
+      "pmid": "18182265",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002829597797244787,
+        "no": -16.362205505371094,
+        "maybe": -5.877829551696777
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9971989393234253,
+        "no": 7.834216120272686e-08,
+        "maybe": 0.002800926798954606
+      }
+    },
+    {
+      "pmid": "18222909",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.28276246786117554,
+        "no": -7.45463752746582,
+        "maybe": -1.4077625274658203
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7544776797294617,
+        "no": 0.0005793495220132172,
+        "maybe": 0.2449430376291275
+      }
+    },
+    {
+      "pmid": "18235194",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.332618236541748,
+        "no": -2.973242998123169,
+        "maybe": -0.06699302047491074
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.013140058144927025,
+        "no": 0.05116421729326248,
+        "maybe": 0.9356957674026489
+      }
+    },
+    {
+      "pmid": "18239988",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.09387671202421188,
+        "no": -8.265751838684082,
+        "maybe": -2.422001600265503
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9109451770782471,
+        "no": 0.000257330946624279,
+        "maybe": 0.088797427713871
+      }
+    },
+    {
+      "pmid": "18243752",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.2512903213500977,
+        "no": -0.6419154405593872,
+        "maybe": -1.0012904405593872
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.10537376999855042,
+        "no": 0.5268356204032898,
+        "maybe": 0.367790549993515
+      }
+    },
+    {
+      "pmid": "18274917",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -12.814908981323242,
+        "no": -0.00240941415540874,
+        "maybe": -6.0336594581604
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.719935764616821e-06,
+        "no": 0.9976006150245667,
+        "maybe": 0.0023967246524989605
+      }
+    },
+    {
+      "pmid": "18284441",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.7291538119316101,
+        "no": -6.119778633117676,
+        "maybe": -0.6666538119316101
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4833127558231354,
+        "no": 0.0022034822031855583,
+        "maybe": 0.5144837498664856
+      }
+    },
+    {
+      "pmid": "18307476",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.04540908336639404,
+        "no": -9.389159202575684,
+        "maybe": -3.1235342025756836
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9559013843536377,
+        "no": 8.365155372302979e-05,
+        "maybe": 0.04401497170329094
+      }
+    },
+    {
+      "pmid": "18319270",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.094952583312988,
+        "no": -0.04807767644524574,
+        "maybe": -3.0793275833129883
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.000829380180221051,
+        "no": 0.953174889087677,
+        "maybe": 0.045995719730854034
+      }
+    },
+    {
+      "pmid": "18322741",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1652517020702362,
+        "no": -9.852751731872559,
+        "maybe": -1.8840017318725586
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8479230403900146,
+        "no": 5.261730984784663e-05,
+        "maybe": 0.15202423930168152
+      }
+    },
+    {
+      "pmid": "18359123",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.5504558086395264,
+        "no": -2.7692058086395264,
+        "maybe": -0.09733070433139801
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.02874951809644699,
+        "no": 0.06279473006725311,
+        "maybe": 0.9084556698799133
+      }
+    },
+    {
+      "pmid": "18378554",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.472745895385742,
+        "no": -0.003995650913566351,
+        "maybe": -5.550870418548584
+      },
+      "conditional_label_probabilities": {
+        "yes": 7.692197686992586e-05,
+        "no": 0.9960389137268066,
+        "maybe": 0.003884177654981613
+      }
+    },
+    {
+      "pmid": "18399830",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.517486095428467,
+        "no": -0.17373615503311157,
+        "maybe": -2.048736095428467
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.029700957238674164,
+        "no": 0.8412839770317078,
+        "maybe": 0.12901507318019867
+      }
+    },
+    {
+      "pmid": "18435678",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.146185874938965,
+        "no": -0.052435923367738724,
+        "maybe": -3.021185874938965
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0021420628763735294,
+        "no": 0.9491048455238342,
+        "maybe": 0.048753123730421066
+      }
+    },
+    {
+      "pmid": "18472368",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.010413005948066711,
+        "no": -9.97916316986084,
+        "maybe": -4.58853816986084
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9897844195365906,
+        "no": 4.6362569264601916e-05,
+        "maybe": 0.010169186629354954
+      }
+    },
+    {
+      "pmid": "18496363",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.004600773099809885,
+        "no": -13.520225524902344,
+        "maybe": -5.395226001739502
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9954602122306824,
+        "no": 1.3435769687930588e-06,
+        "maybe": 0.004538425710052252
+      }
+    },
+    {
+      "pmid": "18507507",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.0517830848693848,
+        "no": -5.114283084869385,
+        "maybe": -0.14553311467170715
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.12862427532672882,
+        "no": 0.006015837658196688,
+        "maybe": 0.8653599619865417
+      }
+    },
+    {
+      "pmid": "18537964",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.08351176232099533,
+        "no": -8.880386352539062,
+        "maybe": -2.5366368293762207
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9206615686416626,
+        "no": 0.0001392084959661588,
+        "maybe": 0.07919929921627045
+      }
+    },
+    {
+      "pmid": "18540901",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1636464148759842,
+        "no": -8.069896697998047,
+        "maybe": -1.8980214595794678
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8497051000595093,
+        "no": 0.0003130597760900855,
+        "maybe": 0.14998185634613037
+      }
+    },
+    {
+      "pmid": "18565233",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -5.442266464233398,
+        "no": -2.5985164642333984,
+        "maybe": -0.0828915610909462
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004333279561251402,
+        "no": 0.07444605231285095,
+        "maybe": 0.9212207198143005
+      }
+    },
+    {
+      "pmid": "18568239",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.3353814482688904,
+        "no": -4.444756507873535,
+        "maybe": -1.3041315078735352
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7163451313972473,
+        "no": 0.011760978028178215,
+        "maybe": 0.2718939185142517
+      }
+    },
+    {
+      "pmid": "18568290",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.11031005531549454,
+        "no": -11.079059600830078,
+        "maybe": -2.2665600776672363
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8962374925613403,
+        "no": 1.5443847587448545e-05,
+        "maybe": 0.10374701768159866
+      }
+    },
+    {
+      "pmid": "18570208",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005126782692968845,
+        "no": -7.145751953125,
+        "maybe": -5.505126953125
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9951446652412415,
+        "no": 0.0007884101360104978,
+        "maybe": 0.004066928755491972
+      }
+    },
+    {
+      "pmid": "18594195",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.3562721610069275,
+        "no": -2.3875222206115723,
+        "maybe": -1.5750222206115723
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7008833885192871,
+        "no": 0.0919358879327774,
+        "maybe": 0.20718072354793549
+      }
+    },
+    {
+      "pmid": "18616781",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.00632025022059679,
+        "no": -13.975069999694824,
+        "maybe": -5.084445476531982
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9938062429428101,
+        "no": 8.526104693373782e-07,
+        "maybe": 0.006192984990775585
+      }
+    },
+    {
+      "pmid": "18667100",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.313000679016113,
+        "no": -0.0005006728461012244,
+        "maybe": -7.688000679016113
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.319897223263979e-05,
+        "no": 0.9995085000991821,
+        "maybe": 0.0004582976980600506
+      }
+    },
+    {
+      "pmid": "18693227",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.08147190511226654,
+        "no": -13.12834644317627,
+        "maybe": -2.5502219200134277
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9219200015068054,
+        "no": 1.9884166704287054e-06,
+        "maybe": 0.0780780017375946
+      }
+    },
+    {
+      "pmid": "18708308",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.338882446289062,
+        "no": -0.010757786221802235,
+        "maybe": -4.542007923126221
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.23509520967491e-05,
+        "no": 0.9893155097961426,
+        "maybe": 0.010652166791260242
+      }
+    },
+    {
+      "pmid": "18714572",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.657280206680298,
+        "no": -1.2979052066802979,
+        "maybe": -0.42290520668029785
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.07025233656167984,
+        "no": 0.27354568243026733,
+        "maybe": 0.6562020182609558
+      }
+    },
+    {
+      "pmid": "18719011",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.38092041015625,
+        "no": -0.13092085719108582,
+        "maybe": -2.099670886993408
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.432863251073286e-05,
+        "no": 0.8774028420448303,
+        "maybe": 0.12251288443803787
+      }
+    },
+    {
+      "pmid": "18783922",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.043758656829595566,
+        "no": -11.809383392333984,
+        "maybe": -3.1687586307525635
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.957905113697052,
+        "no": 7.440060471708421e-06,
+        "maybe": 0.04208741337060928
+      }
+    },
+    {
+      "pmid": "18802997",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.4206187427043915,
+        "no": -7.764368534088135,
+        "maybe": -1.0768687725067139
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.658137321472168,
+        "no": 0.0004255654930602759,
+        "maybe": 0.3414371609687805
+      }
+    },
+    {
+      "pmid": "18926458",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.2946343421936035,
+        "no": -2.3415093421936035,
+        "maybe": -0.4665094017982483
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.27472108602523804,
+        "no": 0.09643615782260895,
+        "maybe": 0.6288427114486694
+      }
+    },
+    {
+      "pmid": "18928979",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.13427259027957916,
+        "no": -7.384272575378418,
+        "maybe": -2.087397575378418
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8752426505088806,
+        "no": 0.0006215748726390302,
+        "maybe": 0.12413579970598221
+      }
+    },
+    {
+      "pmid": "19027440",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.330694675445557,
+        "no": -0.28381970524787903,
+        "maybe": -1.4556946754455566
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.013167633675038815,
+        "no": 0.7534305453300476,
+        "maybe": 0.23340187966823578
+      }
+    },
+    {
+      "pmid": "19100463",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8291117548942566,
+        "no": -6.266611576080322,
+        "maybe": -0.5791117548942566
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4369911849498749,
+        "no": 0.0019010626710951328,
+        "maybe": 0.5611078143119812
+      }
+    },
+    {
+      "pmid": "19103915",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.12919703125953674,
+        "no": -11.832322120666504,
+        "maybe": -2.113572120666504
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8791404962539673,
+        "no": 7.268682111316593e-06,
+        "maybe": 0.12085235118865967
+      }
+    },
+    {
+      "pmid": "19106867",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1785588413476944,
+        "no": -7.053558826446533,
+        "maybe": -1.8191838264465332
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8368955850601196,
+        "no": 0.0008647622307762504,
+        "maybe": 0.16223961114883423
+      }
+    },
+    {
+      "pmid": "19108857",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2420569807291031,
+        "no": -12.570181846618652,
+        "maybe": -1.538931965827942
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7853058576583862,
+        "no": 3.4753791169350734e-06,
+        "maybe": 0.2146906703710556
+      }
+    },
+    {
+      "pmid": "19130332",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.04335738345980644,
+        "no": -12.355857849121094,
+        "maybe": -3.1683573722839355
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9579080939292908,
+        "no": 4.305989932618104e-06,
+        "maybe": 0.04208754375576973
+      }
+    },
+    {
+      "pmid": "19142546",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.141692161560059,
+        "no": -0.0010667116148397326,
+        "maybe": -6.9073166847229
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.94031303585507e-05,
+        "no": 0.9989601373672485,
+        "maybe": 0.001000465010292828
+      }
+    },
+    {
+      "pmid": "19237087",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.454845666885376,
+        "no": -3.111095666885376,
+        "maybe": -0.07984564453363419
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.03161104768514633,
+        "no": 0.04457871988415718,
+        "maybe": 0.9238102436065674
+      }
+    },
+    {
+      "pmid": "19302863",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2934693396091461,
+        "no": -10.324719429016113,
+        "maybe": -1.3715943098068237
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7461144924163818,
+        "no": 3.28313690260984e-05,
+        "maybe": 0.2538526952266693
+      }
+    },
+    {
+      "pmid": "19351635",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.724983811378479,
+        "no": -3.0687336921691895,
+        "maybe": -0.256233811378479
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1784227192401886,
+        "no": 0.04654434695839882,
+        "maybe": 0.7750329375267029
+      }
+    },
+    {
+      "pmid": "19394934",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.420812726020813,
+        "no": -1.842687726020813,
+        "maybe": -0.514562726020813
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.24208152294158936,
+        "no": 0.1587609499692917,
+        "maybe": 0.5991575121879578
+      }
+    },
+    {
+      "pmid": "19398929",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.283439636230469,
+        "no": -0.03343942388892174,
+        "maybe": -3.4396893978118896
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.000686905172187835,
+        "no": 0.9672344923019409,
+        "maybe": 0.032078661024570465
+      }
+    },
+    {
+      "pmid": "19419587",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0011717366287484765,
+        "no": -14.469922065734863,
+        "maybe": -6.798046588897705
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9988835453987122,
+        "no": 5.197764494369039e-07,
+        "maybe": 0.0011160137364640832
+      }
+    },
+    {
+      "pmid": "19430778",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.7602388858795166,
+        "no": -1.9633640050888062,
+        "maybe": -0.22898896038532257
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.06334003061056137,
+        "no": 0.14052599668502808,
+        "maybe": 0.7961339354515076
+      }
+    },
+    {
+      "pmid": "19468282",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.597944259643555,
+        "no": -0.06669441610574722,
+        "maybe": -2.801069498062134
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.003705726470798254,
+        "no": 0.9355450868606567,
+        "maybe": 0.06074922904372215
+      }
+    },
+    {
+      "pmid": "19481382",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.050783157348633,
+        "no": -1.1132831573486328,
+        "maybe": -0.4257832169532776
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.01742362417280674,
+        "no": 0.32875972986221313,
+        "maybe": 0.6538166999816895
+      }
+    },
+    {
+      "pmid": "19482903",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.974586486816406,
+        "no": -0.7245867252349854,
+        "maybe": -0.6777117252349854
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.006916813086718321,
+        "no": 0.48490601778030396,
+        "maybe": 0.5081771612167358
+      }
+    },
+    {
+      "pmid": "19520213",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.2165679931640625,
+        "no": -0.4665681719779968,
+        "maybe": -1.0290682315826416
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.014760399237275124,
+        "no": 0.627627968788147,
+        "maybe": 0.35761162638664246
+      }
+    },
+    {
+      "pmid": "19546588",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -13.547088623046875,
+        "no": -0.00021324267436284572,
+        "maybe": -8.468963623046875
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.3079020391160157e-06,
+        "no": 0.9997888207435608,
+        "maybe": 0.00020988281175959855
+      }
+    },
+    {
+      "pmid": "19575104",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.09047085791826248,
+        "no": -12.621721267700195,
+        "maybe": -2.449845790863037
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9136735796928406,
+        "no": 3.3001851988956332e-06,
+        "maybe": 0.08632320165634155
+      }
+    },
+    {
+      "pmid": "19578820",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.0223000049591064,
+        "no": -0.35042503476142883,
+        "maybe": -1.8191750049591064
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.13249661028385162,
+        "no": 0.7051651477813721,
+        "maybe": 0.1623382419347763
+      }
+    },
+    {
+      "pmid": "19593710",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.3604484796524048,
+        "no": -9.719823837280273,
+        "maybe": -0.2979484796524048
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2568165361881256,
+        "no": 6.014402970322408e-05,
+        "maybe": 0.7431232929229736
+      }
+    },
+    {
+      "pmid": "19640728",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.455779552459717,
+        "no": -2.737029790878296,
+        "maybe": -0.08077973872423172
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.011625555343925953,
+        "no": 0.06484214216470718,
+        "maybe": 0.923532247543335
+      }
+    },
+    {
+      "pmid": "19694846",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.82568359375,
+        "no": -0.013183804228901863,
+        "maybe": -4.34130859375
+      },
+      "conditional_label_probabilities": {
+        "yes": 5.404680996434763e-05,
+        "no": 0.9869261980056763,
+        "maybe": 0.013019786216318607
+      }
+    },
+    {
+      "pmid": "19836806",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.956245422363281,
+        "no": -0.0031204363331198692,
+        "maybe": -5.831245422363281
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00012893615348730236,
+        "no": 0.9969364404678345,
+        "maybe": 0.002934573218226433
+      }
+    },
+    {
+      "pmid": "19854401",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.536104202270508,
+        "no": -0.004853847436606884,
+        "maybe": -5.37985372543335
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00019626074936240911,
+        "no": 0.9951950907707214,
+        "maybe": 0.0046086679212749004
+      }
+    },
+    {
+      "pmid": "19913785",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.42424488067627,
+        "no": -0.017995189875364304,
+        "maybe": -4.033620357513428
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.07460310170427e-05,
+        "no": 0.9822084307670593,
+        "maybe": 0.017710868269205093
+      }
+    },
+    {
+      "pmid": "19923859",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.564563751220703,
+        "no": -2.923938751220703,
+        "maybe": -0.14268863201141357
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0771302729845047,
+        "no": 0.0538456067442894,
+        "maybe": 0.8690240979194641
+      }
+    },
+    {
+      "pmid": "20064872",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.30707049369812,
+        "no": -0.5883204340934753,
+        "maybe": -0.9008204340934753
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.036692339926958084,
+        "no": 0.5563057065010071,
+        "maybe": 0.40700194239616394
+      }
+    },
+    {
+      "pmid": "20084845",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.06319119781255722,
+        "no": -10.531941413879395,
+        "maybe": -2.7975661754608154
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9389997720718384,
+        "no": 2.6677502319216728e-05,
+        "maybe": 0.06097355857491493
+      }
+    },
+    {
+      "pmid": "20121683",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8474358916282654,
+        "no": -5.92556095123291,
+        "maybe": -0.5661858916282654
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4289973974227905,
+        "no": 0.0026733328122645617,
+        "maybe": 0.5683292150497437
+      }
+    },
+    {
+      "pmid": "20187289",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.3630261421203613,
+        "no": -2.3161511421203613,
+        "maybe": -0.4411511719226837
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2564408779144287,
+        "no": 0.098866768181324,
+        "maybe": 0.6446923017501831
+      }
+    },
+    {
+      "pmid": "20197761",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.576885938644409,
+        "no": -0.3425108790397644,
+        "maybe": -1.3425109386444092
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.027986792847514153,
+        "no": 0.7105985879898071,
+        "maybe": 0.26141464710235596
+      }
+    },
+    {
+      "pmid": "20297950",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1749281883239746,
+        "no": -14.096803665161133,
+        "maybe": -1.8311781883239746
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8397333025932312,
+        "no": 7.550016221102851e-07,
+        "maybe": 0.16026590764522552
+      }
+    },
+    {
+      "pmid": "20306735",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.4991735517978668,
+        "no": -8.717923164367676,
+        "maybe": -0.9366735219955444
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6075636744499207,
+        "no": 0.00016376987332478166,
+        "maybe": 0.39227259159088135
+      }
+    },
+    {
+      "pmid": "20337202",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.5231733322143555,
+        "no": -0.30442336201667786,
+        "maybe": -1.3825483322143555
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.01086167711764574,
+        "no": 0.7380346655845642,
+        "maybe": 0.25110363960266113
+      }
+    },
+    {
+      "pmid": "20354380",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1736186146736145,
+        "no": -3.7361185550689697,
+        "maybe": -2.0017435550689697
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8409846425056458,
+        "no": 0.02385689876973629,
+        "maybe": 0.13515852391719818
+      }
+    },
+    {
+      "pmid": "20537205",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.001680511049926281,
+        "no": -14.814180374145508,
+        "maybe": -6.407930374145508
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9983512163162231,
+        "no": 3.6838022765550704e-07,
+        "maybe": 0.0016484825173392892
+      }
+    },
+    {
+      "pmid": "20538207",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.40635377168655396,
+        "no": -1.6094787120819092,
+        "maybe": -2.015728712081909
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6665480136871338,
+        "no": 0.20013399422168732,
+        "maybe": 0.1333179920911789
+      }
+    },
+    {
+      "pmid": "20549895",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.094131946563721,
+        "no": -0.0941317230463028,
+        "maybe": -2.4378817081451416
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0022565992549061775,
+        "no": 0.9103770852088928,
+        "maybe": 0.0873662456870079
+      }
+    },
+    {
+      "pmid": "20571467",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.6824209690093994,
+        "no": -2.7917959690093994,
+        "maybe": -0.8386709690093994
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5059041380882263,
+        "no": 0.06137313321232796,
+        "maybe": 0.4327227473258972
+      }
+    },
+    {
+      "pmid": "20577124",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.00043442347669042647,
+        "no": -16.75043487548828,
+        "maybe": -7.781684398651123
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9995827078819275,
+        "no": 5.313567186249202e-08,
+        "maybe": 0.00041731575038284063
+      }
+    },
+    {
+      "pmid": "20602101",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.959338665008545,
+        "no": -0.006213868968188763,
+        "maybe": -5.256213665008545
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.000949752691667527,
+        "no": 0.9938350915908813,
+        "maybe": 0.005215167999267578
+      }
+    },
+    {
+      "pmid": "20602784",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5306620001792908,
+        "no": -7.9056620597839355,
+        "maybe": -0.8900370001792908
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.588671863079071,
+        "no": 0.00036893636570312083,
+        "maybe": 0.4109591841697693
+      }
+    },
+    {
+      "pmid": "20605051",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -5.876261234283447,
+        "no": -2.0481362342834473,
+        "maybe": -0.14188635349273682
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0028066562954336405,
+        "no": 0.12903955578804016,
+        "maybe": 0.8681538105010986
+      }
+    },
+    {
+      "pmid": "20608141",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.8755784630775452,
+        "no": -1.0318284034729004,
+        "maybe": -1.4849534034729004
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.41683411598205566,
+        "no": 0.3565371334552765,
+        "maybe": 0.22662879526615143
+      }
+    },
+    {
+      "pmid": "20629769",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.7259839177131653,
+        "no": -8.569733619689941,
+        "maybe": -0.6634839177131653
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4842880666255951,
+        "no": 0.00018993571575265378,
+        "maybe": 0.5155219435691833
+      }
+    },
+    {
+      "pmid": "20736672",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.06632187962532043,
+        "no": -9.113197326660156,
+        "maybe": -2.753821849822998
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9361817836761475,
+        "no": 0.00011024331615772098,
+        "maybe": 0.06370797008275986
+      }
+    },
+    {
+      "pmid": "20736887",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.050924301147461,
+        "no": -0.004048842005431652,
+        "maybe": -5.597798824310303
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00031881232280284166,
+        "no": 0.9959750771522522,
+        "maybe": 0.003706070827320218
+      }
+    },
+    {
+      "pmid": "20850631",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.30229124426841736,
+        "no": -7.099166393280029,
+        "maybe": -1.3491662740707397
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7395628094673157,
+        "no": 0.0008262847550213337,
+        "maybe": 0.25961098074913025
+      }
+    },
+    {
+      "pmid": "20971618",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.14653417468070984,
+        "no": -6.912158966064453,
+        "maybe": -2.0059092044830322
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8643620014190674,
+        "no": 0.000996373244561255,
+        "maybe": 0.134641632437706
+      }
+    },
+    {
+      "pmid": "21074975",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.7688083052635193,
+        "no": -6.221933364868164,
+        "maybe": -0.6281833052635193
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.46397775411605835,
+        "no": 0.0019871701952069998,
+        "maybe": 0.5340350866317749
+      }
+    },
+    {
+      "pmid": "21123461",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.10859286785125732,
+        "no": -4.858592987060547,
+        "maybe": -2.358592987060547
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8976249694824219,
+        "no": 0.007765977643430233,
+        "maybe": 0.09460897743701935
+      }
+    },
+    {
+      "pmid": "21164063",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -5.4491729736328125,
+        "no": -3.3085477352142334,
+        "maybe": -0.04292282834649086
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004304791800677776,
+        "no": 0.036611177027225494,
+        "maybe": 0.9590839743614197
+      }
+    },
+    {
+      "pmid": "21194998",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.64146614074707,
+        "no": -0.0008413827163167298,
+        "maybe": -7.1258416175842285
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.3904274712549523e-05,
+        "no": 0.9991720914840698,
+        "maybe": 0.0008040667744353414
+      }
+    },
+    {
+      "pmid": "21214884",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -11.734487533569336,
+        "no": -0.00011264643399044871,
+        "maybe": -9.187612533569336
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.01268015493406e-06,
+        "no": 0.9998897314071655,
+        "maybe": 0.00010229904000880197
+      }
+    },
+    {
+      "pmid": "21228436",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002453890163451433,
+        "no": -15.314953804016113,
+        "maybe": -6.018078804016113
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9975653886795044,
+        "no": 2.232580555983077e-07,
+        "maybe": 0.0024343812838196754
+      }
+    },
+    {
+      "pmid": "21252642",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.843220710754395,
+        "no": -0.015095637179911137,
+        "maybe": -4.2025957107543945
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.9536722902557813e-05,
+        "no": 0.9850236177444458,
+        "maybe": 0.014956793747842312
+      }
+    },
+    {
+      "pmid": "21256734",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -12.85952377319336,
+        "no": -0.00014876213390380144,
+        "maybe": -8.87514877319336
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.6012526177510154e-06,
+        "no": 0.9998575448989868,
+        "maybe": 0.00013982171367388219
+      }
+    },
+    {
+      "pmid": "21342862",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.4735848903656006,
+        "no": -1.5204598903656006,
+        "maybe": -0.5985848903656006
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2297222912311554,
+        "no": 0.21920254826545715,
+        "maybe": 0.5510751605033875
+      }
+    },
+    {
+      "pmid": "21346501",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.011801544576883316,
+        "no": -14.902426719665527,
+        "maybe": -4.449301719665527
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9883124232292175,
+        "no": 3.3727022241691884e-07,
+        "maybe": 0.011687253601849079
+      }
+    },
+    {
+      "pmid": "21361755",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.845563888549805,
+        "no": -0.0018137923907488585,
+        "maybe": -6.579938888549805
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00039149762596935034,
+        "no": 0.9982205033302307,
+        "maybe": 0.0013879797188565135
+      }
+    },
+    {
+      "pmid": "21394762",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0026881294324994087,
+        "no": -10.92456340789795,
+        "maybe": -5.955812931060791
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9973911046981812,
+        "no": 1.801172948034946e-05,
+        "maybe": 0.002590932883322239
+      }
+    },
+    {
+      "pmid": "21420186",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8954607844352722,
+        "no": -2.020460844039917,
+        "maybe": -0.7860857844352722
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.40979689359664917,
+        "no": 0.13304157555103302,
+        "maybe": 0.45716148614883423
+      }
+    },
+    {
+      "pmid": "21431987",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.181003570556641,
+        "no": -2.2122538089752197,
+        "maybe": -0.13412873446941376
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.015295177698135376,
+        "no": 0.10953976958990097,
+        "maybe": 0.8751651048660278
+      }
+    },
+    {
+      "pmid": "21459725",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.196927547454834,
+        "no": -0.21255232393741608,
+        "maybe": -1.6656773090362549
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0020364576485008,
+        "no": 0.8088283538818359,
+        "maybe": 0.1891351342201233
+      }
+    },
+    {
+      "pmid": "21481154",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.02531658671796322,
+        "no": -12.69719123840332,
+        "maybe": -3.6971914768218994
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9751988649368286,
+        "no": 3.060326889681164e-06,
+        "maybe": 0.024798085913062096
+      }
+    },
+    {
+      "pmid": "21645374",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8218984603881836,
+        "no": -6.931273460388184,
+        "maybe": -0.5875234603881836
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.44123998284339905,
+        "no": 0.0009804082801565528,
+        "maybe": 0.5577795505523682
+      }
+    },
+    {
+      "pmid": "21658267",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.2375095784664154,
+        "no": -5.393759727478027,
+        "maybe": -1.5812596082687378
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7894972562789917,
+        "no": 0.0045500872656702995,
+        "maybe": 0.20595267415046692
+      }
+    },
+    {
+      "pmid": "21689015",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005113855004310608,
+        "no": -15.75511360168457,
+        "maybe": -5.2863640785217285
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9949395656585693,
+        "no": 1.4376681178873696e-07,
+        "maybe": 0.005060331430286169
+      }
+    },
+    {
+      "pmid": "21712147",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -6.212913513183594,
+        "no": -1.5410385131835938,
+        "maybe": -0.24416349828243256
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0020043510012328625,
+        "no": 0.21426109969615936,
+        "maybe": 0.7837345600128174
+      }
+    },
+    {
+      "pmid": "21726930",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0001928620331455022,
+        "no": -16.500192642211914,
+        "maybe": -8.625192642211914
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9998204112052917,
+        "no": 6.82437786281298e-08,
+        "maybe": 0.00017952795315068215
+      }
+    },
+    {
+      "pmid": "21789019",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.200817108154297,
+        "no": -0.18519221246242523,
+        "maybe": -1.7789422273635864
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00010097078484250233,
+        "no": 0.8310591578483582,
+        "maybe": 0.16883991658687592
+      }
+    },
+    {
+      "pmid": "21823940",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.3821375370025635,
+        "no": -1.1946375370025635,
+        "maybe": -0.41338759660720825
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.03403621166944504,
+        "no": 0.3033614456653595,
+        "maybe": 0.6626023054122925
+      }
+    },
+    {
+      "pmid": "21845457",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.492647409439087,
+        "no": -0.03952232375741005,
+        "maybe": -4.805147171020508
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.030424606055021286,
+        "no": 0.9613867402076721,
+        "maybe": 0.008188672363758087
+      }
+    },
+    {
+      "pmid": "21848798",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.1935532093048096,
+        "no": -0.9904282689094543,
+        "maybe": -0.6623032689094543
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1116761714220047,
+        "no": 0.37193843722343445,
+        "maybe": 0.5163853764533997
+      }
+    },
+    {
+      "pmid": "21849531",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.9776365756988525,
+        "no": -1.3682615756988525,
+        "maybe": -0.32138657569885254
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.018759459257125854,
+        "no": 0.25495144724845886,
+        "maybe": 0.7262890338897705
+      }
+    },
+    {
+      "pmid": "21850494",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.7233822345733643,
+        "no": -1.0515072345733643,
+        "maybe": -0.7546322345733643
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.17880918085575104,
+        "no": 0.3500913679599762,
+        "maybe": 0.47109946608543396
+      }
+    },
+    {
+      "pmid": "21864397",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.25277718901634216,
+        "no": -9.049652099609375,
+        "maybe": -1.5027772188186646
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7772085666656494,
+        "no": 0.00011751770216505975,
+        "maybe": 0.22267399728298187
+      }
+    },
+    {
+      "pmid": "21889895",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.6268529891967773,
+        "no": -3.7831029891967773,
+        "maybe": -0.2518530488014221
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.19720618426799774,
+        "no": 0.022828273475170135,
+        "maybe": 0.7799655795097351
+      }
+    },
+    {
+      "pmid": "21946341",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -12.578310012817383,
+        "no": -0.0001851148990681395,
+        "maybe": -8.687685012817383
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.4459976632206235e-06,
+        "no": 0.9998278617858887,
+        "maybe": 0.0001686521718511358
+      }
+    },
+    {
+      "pmid": "21952349",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.0549888610839844,
+        "no": -5.054988861083984,
+        "maybe": -0.14873892068862915
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.12857438623905182,
+        "no": 0.006401341408491135,
+        "maybe": 0.8650243282318115
+      }
+    },
+    {
+      "pmid": "22011946",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.917077541351318,
+        "no": -0.07332776486873627,
+        "maybe": -2.6670777797698975
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0009909768123179674,
+        "no": 0.9295362234115601,
+        "maybe": 0.06947283446788788
+      }
+    },
+    {
+      "pmid": "22012962",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.104889392852783,
+        "no": -0.47988957166671753,
+        "maybe": -1.0111396312713623
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.016505911946296692,
+        "no": 0.6193796396255493,
+        "maybe": 0.3641144633293152
+      }
+    },
+    {
+      "pmid": "22023714",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.2402602434158325,
+        "no": -0.41213521361351013,
+        "maybe": -3.037135124206543
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2894490957260132,
+        "no": 0.6625555753707886,
+        "maybe": 0.04799536615610123
+      }
+    },
+    {
+      "pmid": "22042121",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.477919101715088,
+        "no": -0.8060440421104431,
+        "maybe": -0.7591690421104431
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.08403581380844116,
+        "no": 0.4472501277923584,
+        "maybe": 0.4687140882015228
+      }
+    },
+    {
+      "pmid": "22075911",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002329376293346286,
+        "no": -7.111704349517822,
+        "maybe": -6.549204349517822
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9977530837059021,
+        "no": 0.0008155690738931298,
+        "maybe": 0.0014313682913780212
+      }
+    },
+    {
+      "pmid": "22117569",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0017271614633500576,
+        "no": -16.689228057861328,
+        "maybe": -6.376727104187012
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9982993006706238,
+        "no": 5.649000556218198e-08,
+        "maybe": 0.001700722612440586
+      }
+    },
+    {
+      "pmid": "22154448",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.0376083850860596,
+        "no": -0.25635844469070435,
+        "maybe": -2.3501083850860596
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1303969770669937,
+        "no": 0.7742025256156921,
+        "maybe": 0.09540046751499176
+      }
+    },
+    {
+      "pmid": "22188074",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.006633168086409569,
+        "no": -16.834758758544922,
+        "maybe": -5.022258281707764
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9934101700782776,
+        "no": 4.88390021757823e-08,
+        "maybe": 0.006589771248400211
+      }
+    },
+    {
+      "pmid": "22227642",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.410411834716797,
+        "no": -0.06666185706853867,
+        "maybe": -2.816661834716797
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004470753483474255,
+        "no": 0.9357112050056458,
+        "maybe": 0.05981801450252533
+      }
+    },
+    {
+      "pmid": "22233470",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.277311325073242,
+        "no": -0.011686318553984165,
+        "maybe": -4.480436325073242
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00025422885664738715,
+        "no": 0.988416850566864,
+        "maybe": 0.011328873224556446
+      }
+    },
+    {
+      "pmid": "22236315",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0025316590908914804,
+        "no": -14.346282005310059,
+        "maybe": -6.0025315284729
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9975268244743347,
+        "no": 5.881838660570793e-07,
+        "maybe": 0.0024726218543946743
+      }
+    },
+    {
+      "pmid": "22237146",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.2872463464736938,
+        "no": -3.5372464656829834,
+        "maybe": -0.36537137627601624
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2762889564037323,
+        "no": 0.029120642691850662,
+        "maybe": 0.6945903301239014
+      }
+    },
+    {
+      "pmid": "22251324",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -13.07820987701416,
+        "no": -8.475421054754406e-05,
+        "maybe": -9.45320987701416
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.0902944015688263e-06,
+        "no": 0.9999194145202637,
+        "maybe": 7.843771891202778e-05
+      }
+    },
+    {
+      "pmid": "22266735",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.68174147605896,
+        "no": -7.056741237640381,
+        "maybe": -0.0723663941025734
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.06847841292619705,
+        "no": 0.000862015993334353,
+        "maybe": 0.9306595921516418
+      }
+    },
+    {
+      "pmid": "22302761",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005374625325202942,
+        "no": -13.224124908447266,
+        "maybe": -5.239749431610107
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9946962594985962,
+        "no": 1.8065931044475292e-06,
+        "maybe": 0.005301884841173887
+      }
+    },
+    {
+      "pmid": "22348433",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.006508699618279934,
+        "no": -13.975258827209473,
+        "maybe": -5.053383827209473
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9936107993125916,
+        "no": 8.524428380951576e-07,
+        "maybe": 0.006388314999639988
+      }
+    },
+    {
+      "pmid": "22350859",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.4323970079421997,
+        "no": -7.21364688873291,
+        "maybe": -0.2761469781398773
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.23917275667190552,
+        "no": 0.0007378137088380754,
+        "maybe": 0.7600894570350647
+      }
+    },
+    {
+      "pmid": "22365295",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.553408622741699,
+        "no": -0.772158682346344,
+        "maybe": -0.678408682346344
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.02868238277733326,
+        "no": 0.4629102051258087,
+        "maybe": 0.5084074139595032
+      }
+    },
+    {
+      "pmid": "22382608",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.859556674957275,
+        "no": -0.015806617215275764,
+        "maybe": -4.234556674957275
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0010495332535356283,
+        "no": 0.9844621419906616,
+        "maybe": 0.014488358981907368
+      }
+    },
+    {
+      "pmid": "22453060",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.014479797333478928,
+        "no": -11.639479637145996,
+        "maybe": -4.248854637145996
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9857094287872314,
+        "no": 8.81202140590176e-06,
+        "maybe": 0.014281808398663998
+      }
+    },
+    {
+      "pmid": "22491528",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.07846397161483765,
+        "no": -8.031588554382324,
+        "maybe": -2.5940890312194824
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9249290823936462,
+        "no": 0.00032516990904696286,
+        "maybe": 0.07474572956562042
+      }
+    },
+    {
+      "pmid": "22497340",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5597379207611084,
+        "no": -2.8409879207611084,
+        "maybe": -0.9972379207611084
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5721462368965149,
+        "no": 0.058448418974876404,
+        "maybe": 0.3694053888320923
+      }
+    },
+    {
+      "pmid": "22504515",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.46928882598877,
+        "no": -0.0005391574813984334,
+        "maybe": -8.17241382598877
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00020982381829526275,
+        "no": 0.9995077848434448,
+        "maybe": 0.0002823488030117005
+      }
+    },
+    {
+      "pmid": "22513023",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.350178241729736,
+        "no": -0.5220534205436707,
+        "maybe": -0.9126784205436707
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00474969856441021,
+        "no": 0.5936002731323242,
+        "maybe": 0.4016500413417816
+      }
+    },
+    {
+      "pmid": "22522271",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.693098545074463,
+        "no": -0.09934864938259125,
+        "maybe": -2.396223545074463
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.003369617974385619,
+        "no": 0.9055562019348145,
+        "maybe": 0.09107418358325958
+      }
+    },
+    {
+      "pmid": "22532370",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.008726556785404682,
+        "no": -9.524351119995117,
+        "maybe": -4.774351596832275
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9914820194244385,
+        "no": 7.306365296244621e-05,
+        "maybe": 0.008445010520517826
+      }
+    },
+    {
+      "pmid": "22534881",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.245716571807861,
+        "no": -0.011341741308569908,
+        "maybe": -4.558216571807861
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00071328243939206,
+        "no": 0.9888050556182861,
+        "maybe": 0.010481609962880611
+      }
+    },
+    {
+      "pmid": "22537902",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1827717125415802,
+        "no": -4.620271682739258,
+        "maybe": -1.8546466827392578
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8335278630256653,
+        "no": 0.009856854565441608,
+        "maybe": 0.1566152572631836
+      }
+    },
+    {
+      "pmid": "22540518",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.014092573896050453,
+        "no": -9.951592445373535,
+        "maybe": -4.279717445373535
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.986104428768158,
+        "no": 4.765643097925931e-05,
+        "maybe": 0.013847951777279377
+      }
+    },
+    {
+      "pmid": "22617083",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.7345249652862549,
+        "no": -1.5938999652862549,
+        "maybe": -1.1563999652862549
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.48094433546066284,
+        "no": 0.20364464819431305,
+        "maybe": 0.3154110014438629
+      }
+    },
+    {
+      "pmid": "22644412",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.2634317874908447,
+        "no": -1.0759317874908447,
+        "maybe": -0.9821817278862
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.28320467472076416,
+        "no": 0.34161004424095154,
+        "maybe": 0.3751852512359619
+      }
+    },
+    {
+      "pmid": "22656647",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.898942470550537,
+        "no": -2.898942470550537,
+        "maybe": -0.11769243329763412
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0551292710006237,
+        "no": 0.0551292710006237,
+        "maybe": 0.8897413611412048
+      }
+    },
+    {
+      "pmid": "22668712",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.329631805419922,
+        "no": -0.0015065044863149524,
+        "maybe": -6.564006328582764
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.875551429810002e-05,
+        "no": 0.9985010623931885,
+        "maybe": 0.0014102334389463067
+      }
+    },
+    {
+      "pmid": "22668852",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.656749725341797,
+        "no": -0.0004996005445718765,
+        "maybe": -7.687999725341797
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.3541826521977782e-05,
+        "no": 0.9995181560516357,
+        "maybe": 0.00045830212184228003
+      }
+    },
+    {
+      "pmid": "22680064",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.027686014771461487,
+        "no": -10.90268611907959,
+        "maybe": -3.60581111907959
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.972812831401825,
+        "no": 1.8410975826554932e-05,
+        "maybe": 0.02716873213648796
+      }
+    },
+    {
+      "pmid": "22683044",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.144206523895264,
+        "no": -1.9410815238952637,
+        "maybe": -0.17545656859874725
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.015880173072218895,
+        "no": 0.1437673568725586,
+        "maybe": 0.8403524160385132
+      }
+    },
+    {
+      "pmid": "22694248",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.07576330006122589,
+        "no": -8.935138702392578,
+        "maybe": -2.62263822555542
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9272410869598389,
+        "no": 0.00013170884631108493,
+        "maybe": 0.07262713462114334
+      }
+    },
+    {
+      "pmid": "22720085",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.8379402160644531,
+        "no": -0.8223152756690979,
+        "maybe": -0.9160652756690979
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.15936030447483063,
+        "no": 0.44000789523124695,
+        "maybe": 0.40063175559043884
+      }
+    },
+    {
+      "pmid": "22758782",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.555083274841309,
+        "no": -0.008208704181015491,
+        "maybe": -4.820708751678467
+      },
+      "conditional_label_probabilities": {
+        "yes": 7.084327808115631e-05,
+        "no": 0.99186772108078,
+        "maybe": 0.008061421103775501
+      }
+    },
+    {
+      "pmid": "22825590",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.6578962802886963,
+        "no": -1.3766462802886963,
+        "maybe": -0.3922713100910187
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.07023318856954575,
+        "no": 0.25291940569877625,
+        "maybe": 0.6768473982810974
+      }
+    },
+    {
+      "pmid": "22876568",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.644678115844727,
+        "no": -0.00405347254127264,
+        "maybe": -5.535303592681885
+      },
+      "conditional_label_probabilities": {
+        "yes": 6.47716224193573e-05,
+        "no": 0.9959900975227356,
+        "maybe": 0.0039451513439416885
+      }
+    },
+    {
+      "pmid": "22902073",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.00136461085639894,
+        "no": -15.048239707946777,
+        "maybe": -6.626364707946777
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.998674750328064,
+        "no": 2.915071775078104e-07,
+        "maybe": 0.0013250220799818635
+      }
+    },
+    {
+      "pmid": "23025584",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.2337526082992554,
+        "no": -1.5931276082992554,
+        "maybe": -0.6868776082992554
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2918891906738281,
+        "no": 0.20377150177955627,
+        "maybe": 0.5043392777442932
+      }
+    },
+    {
+      "pmid": "23076787",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.727020263671875,
+        "no": -0.008270302787423134,
+        "maybe": -4.961395263671875
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0011981396237388253,
+        "no": 0.9917985200881958,
+        "maybe": 0.007003394886851311
+      }
+    },
+    {
+      "pmid": "23149821",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0746980682015419,
+        "no": -8.965323448181152,
+        "maybe": -2.637197971343994
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9282901287078857,
+        "no": 0.0001278010313399136,
+        "maybe": 0.07158204913139343
+      }
+    },
+    {
+      "pmid": "23177368",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.359525203704834,
+        "no": -0.015775170177221298,
+        "maybe": -4.203275203704834
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0006365440785884857,
+        "no": 0.9844158291816711,
+        "maybe": 0.014947564341127872
+      }
+    },
+    {
+      "pmid": "23224030",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.831048011779785,
+        "no": -0.04979800805449486,
+        "maybe": -3.049798011779785
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0010798665462061763,
+        "no": 0.9515454769134521,
+        "maybe": 0.0473746582865715
+      }
+    },
+    {
+      "pmid": "23283159",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.000685576000250876,
+        "no": -16.31318473815918,
+        "maybe": -7.313185691833496
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9993332028388977,
+        "no": 8.227759451528982e-08,
+        "maybe": 0.000666702282615006
+      }
+    },
+    {
+      "pmid": "23321509",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.469728946685791,
+        "no": -0.46972888708114624,
+        "maybe": -1.938478946685791
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.23019911348819733,
+        "no": 0.6257460117340088,
+        "maybe": 0.14405490458011627
+      }
+    },
+    {
+      "pmid": "23347337",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.022926850244402885,
+        "no": -11.491677284240723,
+        "maybe": -3.7885518074035645
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.977360725402832,
+        "no": 1.021503885567654e-05,
+        "maybe": 0.022628966718912125
+      }
+    },
+    {
+      "pmid": "23359100",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.4725514054298401,
+        "no": -5.613176345825195,
+        "maybe": -0.9881764054298401
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6238376498222351,
+        "no": 0.0036519640125334263,
+        "maybe": 0.37251046299934387
+      }
+    },
+    {
+      "pmid": "23361217",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002648538677021861,
+        "no": -10.28389835357666,
+        "maybe": -5.98702335357666
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9974544644355774,
+        "no": 3.41824306815397e-05,
+        "maybe": 0.002511377912014723
+      }
+    },
+    {
+      "pmid": "23375036",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.00482537504285574,
+        "no": -15.442325592041016,
+        "maybe": -5.348575592041016
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.995244562625885,
+        "no": 1.9656616245811165e-07,
+        "maybe": 0.004755198955535889
+      }
+    },
+    {
+      "pmid": "23379759",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.518244981765747,
+        "no": -0.6276199817657471,
+        "maybe": -0.8307449817657471
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.029674073681235313,
+        "no": 0.5342686176300049,
+        "maybe": 0.43605732917785645
+      }
+    },
+    {
+      "pmid": "23412195",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.16322751343250275,
+        "no": -9.866352081298828,
+        "maybe": -1.8976025581359863
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8499271273612976,
+        "no": 5.192398384679109e-05,
+        "maybe": 0.1500210464000702
+      }
+    },
+    {
+      "pmid": "23422012",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.400036334991455,
+        "no": -1.2281614542007446,
+        "maybe": -0.36878642439842224
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.012317781336605549,
+        "no": 0.2938057780265808,
+        "maybe": 0.6938764452934265
+      }
+    },
+    {
+      "pmid": "23448747",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.09769392758607864,
+        "no": -9.550819396972656,
+        "maybe": -2.378943920135498
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9072476625442505,
+        "no": 7.116817141650245e-05,
+        "maybe": 0.09268118441104889
+      }
+    },
+    {
+      "pmid": "23455575",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.7431793212890625,
+        "no": -0.4931793212890625,
+        "maybe": -1.0088043212890625
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.023702044039964676,
+        "no": 0.6112837791442871,
+        "maybe": 0.3650141954421997
+      }
+    },
+    {
+      "pmid": "23495128",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.9636070728302,
+        "no": -5.791732311248779,
+        "maybe": -0.05735716223716736
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.051687031984329224,
+        "no": 0.003055923618376255,
+        "maybe": 0.9452570676803589
+      }
+    },
+    {
+      "pmid": "23497210",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.259058475494385,
+        "no": -0.22780852019786835,
+        "maybe": -1.6184334754943848
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.005201831925660372,
+        "no": 0.7965269088745117,
+        "maybe": 0.1982712298631668
+      }
+    },
+    {
+      "pmid": "23517744",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.153293132781982,
+        "no": -0.10641797631978989,
+        "maybe": -2.4657928943634033
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.015717262402176857,
+        "no": 0.8993160724639893,
+        "maybe": 0.08496671169996262
+      }
+    },
+    {
+      "pmid": "23539689",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.7815282940864563,
+        "no": -2.4846532344818115,
+        "maybe": -0.7815282940864563
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4582712650299072,
+        "no": 0.08345739543437958,
+        "maybe": 0.4582712650299072
+      }
+    },
+    {
+      "pmid": "23568387",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.410953521728516,
+        "no": -0.4734532833099365,
+        "maybe": -0.9890782833099365
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004470801912248135,
+        "no": 0.6233248710632324,
+        "maybe": 0.3722042739391327
+      }
+    },
+    {
+      "pmid": "23571528",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.100054979324341,
+        "no": -9.678179740905762,
+        "maybe": -0.13130490481853485
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.12251552194356918,
+        "no": 6.26690816716291e-05,
+        "maybe": 0.8774217963218689
+      }
+    },
+    {
+      "pmid": "23621776",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.891231536865234,
+        "no": -0.000606710382271558,
+        "maybe": -7.453731536865234
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.862095268734265e-05,
+        "no": 0.9994020462036133,
+        "maybe": 0.0005792808951810002
+      }
+    },
+    {
+      "pmid": "23677366",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.893871307373047,
+        "no": -0.0032463965471833944,
+        "maybe": -5.862621307373047
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.000373031769413501,
+        "no": 0.9967831373214722,
+        "maybe": 0.002843848429620266
+      }
+    },
+    {
+      "pmid": "23690198",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.4851222336292267,
+        "no": -4.172622203826904,
+        "maybe": -1.0007472038269043
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6164613366127014,
+        "no": 0.015432808548212051,
+        "maybe": 0.36810585856437683
+      }
+    },
+    {
+      "pmid": "23736032",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.2500550746917725,
+        "no": -2.8750550746917725,
+        "maybe": -0.4219300448894501
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2868671417236328,
+        "no": 0.05648748204112053,
+        "maybe": 0.6566453576087952
+      }
+    },
+    {
+      "pmid": "23761381",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.468711853027344,
+        "no": -0.015587050467729568,
+        "maybe": -4.281211853027344
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0015513604739680886,
+        "no": 0.984621524810791,
+        "maybe": 0.0138271264731884
+      }
+    },
+    {
+      "pmid": "23794696",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.127471923828125,
+        "no": -0.002471965504810214,
+        "maybe": -6.064971923828125
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00010864395881071687,
+        "no": 0.9975684285163879,
+        "maybe": 0.0023229101207107306
+      }
+    },
+    {
+      "pmid": "23806388",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.9863013029098511,
+        "no": -2.7206764221191406,
+        "maybe": -0.5800513029098511
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.3734564781188965,
+        "no": 0.06591897457838058,
+        "maybe": 0.5606245398521423
+      }
+    },
+    {
+      "pmid": "23810330",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.47184944152832,
+        "no": -0.3624746799468994,
+        "maybe": -1.2062246799468994
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.004205633886158466,
+        "no": 0.6963135600090027,
+        "maybe": 0.29948073625564575
+      }
+    },
+    {
+      "pmid": "23848044",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.17311032116413116,
+        "no": -7.938735485076904,
+        "maybe": -1.8449853658676147
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8415252566337585,
+        "no": 0.0003568609827198088,
+        "maybe": 0.15811790525913239
+      }
+    },
+    {
+      "pmid": "23870157",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.02468061074614525,
+        "no": -11.962180137634277,
+        "maybe": -3.7278056144714355
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9759401679039001,
+        "no": 6.383117124642013e-06,
+        "maybe": 0.02405339851975441
+      }
+    },
+    {
+      "pmid": "23916653",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.08705610036849976,
+        "no": -9.602681159973145,
+        "maybe": -2.4933061599731445
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9172406792640686,
+        "no": 6.75927076372318e-05,
+        "maybe": 0.0826917514204979
+      }
+    },
+    {
+      "pmid": "23949294",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.09961100667715073,
+        "no": -5.755860805511475,
+        "maybe": -2.3964860439300537
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9057411551475525,
+        "no": 0.0031661097891628742,
+        "maybe": 0.0910927876830101
+      }
+    },
+    {
+      "pmid": "23992109",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.017970718443393707,
+        "no": -11.70547103881836,
+        "maybe": -4.033595561981201
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9822795987129211,
+        "no": 8.249324309872463e-06,
+        "maybe": 0.017712153494358063
+      }
+    },
+    {
+      "pmid": "24013712",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.07455877959728241,
+        "no": -12.105809211730957,
+        "maybe": -2.637058734893799
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9284036755561829,
+        "no": 5.528806013899157e-06,
+        "maybe": 0.07159080356359482
+      }
+    },
+    {
+      "pmid": "24014276",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.4754750728607178,
+        "no": -2.9598500728607178,
+        "maybe": -0.3348500728607178
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.22960177063941956,
+        "no": 0.05203785374760628,
+        "maybe": 0.7183603644371033
+      }
+    },
+    {
+      "pmid": "24061619",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.054155349731445,
+        "no": -0.007279893849045038,
+        "maybe": -4.991654872894287
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0003178237529937178,
+        "no": 0.9928868412971497,
+        "maybe": 0.006795371416956186
+      }
+    },
+    {
+      "pmid": "24073931",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.202325820922852,
+        "no": -0.264825701713562,
+        "maybe": -1.467950701713562
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0020251991227269173,
+        "no": 0.7675226926803589,
+        "maybe": 0.23045209050178528
+      }
+    },
+    {
+      "pmid": "24139705",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.801603317260742,
+        "no": -1.0672283172607422,
+        "maybe": -0.4578532576560974
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.02235872857272625,
+        "no": 0.34432700276374817,
+        "maybe": 0.6333142518997192
+      }
+    },
+    {
+      "pmid": "24191126",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.017991207540035248,
+        "no": -13.346116065979004,
+        "maybe": -4.033616065979004
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9822860360145569,
+        "no": 1.5992148973964504e-06,
+        "maybe": 0.017712268978357315
+      }
+    },
+    {
+      "pmid": "24245816",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.003063154872506857,
+        "no": -15.909313201904297,
+        "maybe": -5.799938201904297
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9969720840454102,
+        "no": 1.2322146858423366e-07,
+        "maybe": 0.003027834929525852
+      }
+    },
+    {
+      "pmid": "24270957",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.004727852065116167,
+        "no": -14.739103317260742,
+        "maybe": -5.364102840423584
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.995317816734314,
+        "no": 3.9710377564006194e-07,
+        "maybe": 0.00468182098120451
+      }
+    },
+    {
+      "pmid": "24298614",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.07928825169801712,
+        "no": -8.626163482666016,
+        "maybe": -2.5792882442474365
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9239760041236877,
+        "no": 0.00017939074314199388,
+        "maybe": 0.07584457099437714
+      }
+    },
+    {
+      "pmid": "24318956",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.4766862392425537,
+        "no": -1.9298112392425537,
+        "maybe": -0.1954362690448761
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.030954213812947273,
+        "no": 0.1453848034143448,
+        "maybe": 0.8236610293388367
+      }
+    },
+    {
+      "pmid": "24336869",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.856878280639648,
+        "no": -0.2318783402442932,
+        "maybe": -1.5912532806396484
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.002861380111426115,
+        "no": 0.79338139295578,
+        "maybe": 0.20375719666481018
+      }
+    },
+    {
+      "pmid": "24340838",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.26713860034942627,
+        "no": -8.110888481140137,
+        "maybe": -1.4546386003494263
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.766063392162323,
+        "no": 0.0003004466416314244,
+        "maybe": 0.23363612592220306
+      }
+    },
+    {
+      "pmid": "24352924",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.590394020080566,
+        "no": -0.19976915419101715,
+        "maybe": -1.731019139289856
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.003734462894499302,
+        "no": 0.8191187381744385,
+        "maybe": 0.17714685201644897
+      }
+    },
+    {
+      "pmid": "24359102",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.7116110920906067,
+        "no": -3.680361032485962,
+        "maybe": -0.7272360920906067
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4911919832229614,
+        "no": 0.025231294333934784,
+        "maybe": 0.48357677459716797
+      }
+    },
+    {
+      "pmid": "24449622",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.551199436187744,
+        "no": -1.1918245553970337,
+        "maybe": -0.3793245851993561
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.010569918900728226,
+        "no": 0.30410927534103394,
+        "maybe": 0.6853208541870117
+      }
+    },
+    {
+      "pmid": "24476003",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.10719993710517883,
+        "no": -10.404074668884277,
+        "maybe": -2.2946999073028564
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8990941047668457,
+        "no": 3.0333960239659064e-05,
+        "maybe": 0.10087555646896362
+      }
+    },
+    {
+      "pmid": "24481006",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005943008232861757,
+        "no": -9.349693298339844,
+        "maybe": -5.1621928215026855
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9941832423210144,
+        "no": 8.700163016328588e-05,
+        "maybe": 0.005729748401790857
+      }
+    },
+    {
+      "pmid": "24495711",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.1815272569656372,
+        "no": -0.7596522569656372,
+        "maybe": -1.4940272569656372
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.30708441138267517,
+        "no": 0.46824780106544495,
+        "maybe": 0.2246677428483963
+      }
+    },
+    {
+      "pmid": "24507422",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.6797003746032715,
+        "no": -1.648450493812561,
+        "maybe": -0.22657546401023865
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.009292121045291424,
+        "no": 0.19256173074245453,
+        "maybe": 0.7981461882591248
+      }
+    },
+    {
+      "pmid": "24516646",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.12830238044261932,
+        "no": -6.034552574157715,
+        "maybe": -2.1439273357391357
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8803130984306335,
+        "no": 0.002396543510258198,
+        "maybe": 0.11729037016630173
+      }
+    },
+    {
+      "pmid": "24577079",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.469905376434326,
+        "no": -0.21990525722503662,
+        "maybe": -1.6261552572250366
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0005700683104805648,
+        "no": 0.8027159571647644,
+        "maybe": 0.19671401381492615
+      }
+    },
+    {
+      "pmid": "24591144",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.837557554244995,
+        "no": -0.8844325542449951,
+        "maybe": -0.5719325542449951
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.021569279953837395,
+        "no": 0.41339150071144104,
+        "maybe": 0.5650392174720764
+      }
+    },
+    {
+      "pmid": "24614789",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.01341813150793314,
+        "no": -11.513418197631836,
+        "maybe": -4.325918197631836
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9867673516273499,
+        "no": 9.996045264415443e-06,
+        "maybe": 0.013222690671682358
+      }
+    },
+    {
+      "pmid": "24622801",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.01426299475133419,
+        "no": -13.076763153076172,
+        "maybe": -4.264263153076172
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.985934317111969,
+        "no": 2.0935160591761814e-06,
+        "maybe": 0.014063596725463867
+      }
+    },
+    {
+      "pmid": "24625433",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.073019027709961,
+        "no": -0.05739397183060646,
+        "maybe": -2.932394027709961
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0023046773858368397,
+        "no": 0.9444150328636169,
+        "maybe": 0.05328025296330452
+      }
+    },
+    {
+      "pmid": "24666444",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.462276935577393,
+        "no": -1.3841516971588135,
+        "maybe": -0.30602675676345825
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.01155410148203373,
+        "no": 0.2509278655052185,
+        "maybe": 0.7375180125236511
+      }
+    },
+    {
+      "pmid": "24669960",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.64404582977295,
+        "no": -0.0034211697056889534,
+        "maybe": -5.690921306610107
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.384272920608055e-05,
+        "no": 0.9965996146202087,
+        "maybe": 0.003376531880348921
+      }
+    },
+    {
+      "pmid": "24671913",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0008950994815677404,
+        "no": -14.657145500183105,
+        "maybe": -7.063395023345947
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9991436004638672,
+        "no": 4.3102201630063064e-07,
+        "maybe": 0.0008559002308174968
+      }
+    },
+    {
+      "pmid": "24698298",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.9794352054595947,
+        "no": -0.04193519055843353,
+        "maybe": -3.8075602054595947
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.018699370324611664,
+        "no": 0.9590946435928345,
+        "maybe": 0.022206049412488937
+      }
+    },
+    {
+      "pmid": "24739448",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.25248384475708,
+        "no": -0.018108753487467766,
+        "maybe": -4.14310884475708
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.001925947959534824,
+        "no": 0.9821982979774475,
+        "maybe": 0.01587575674057007
+      }
+    },
+    {
+      "pmid": "24751724",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.7464627623558044,
+        "no": -3.355837821960449,
+        "maybe": -0.7152127623558044
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4749862551689148,
+        "no": 0.034949734807014465,
+        "maybe": 0.49006396532058716
+      }
+    },
+    {
+      "pmid": "24799031",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.458837509155273,
+        "no": -0.05258737877011299,
+        "maybe": -3.0057122707366943
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0015668644336983562,
+        "no": 0.948921799659729,
+        "maybe": 0.04951132461428642
+      }
+    },
+    {
+      "pmid": "24809662",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -13.219056129455566,
+        "no": -0.00030632095877081156,
+        "maybe": -8.109681129455566
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.8156764554078109e-06,
+        "no": 0.9996975660324097,
+        "maybe": 0.00030061579309403896
+      }
+    },
+    {
+      "pmid": "24922528",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.2978601455688477,
+        "no": -1.2041101455688477,
+        "maybe": -0.5166100859642029
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.10077880322933197,
+        "no": 0.3008699119091034,
+        "maybe": 0.5983512997627258
+      }
+    },
+    {
+      "pmid": "24977765",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.946743488311768,
+        "no": -0.16549327969551086,
+        "maybe": -1.9311182498931885
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0071095870807766914,
+        "no": 0.8478417992591858,
+        "maybe": 0.14504863321781158
+      }
+    },
+    {
+      "pmid": "24995509",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.13720789551734924,
+        "no": -8.746582984924316,
+        "maybe": -2.0590829849243164
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8722086548805237,
+        "no": 0.00015908027125988156,
+        "maybe": 0.12763230502605438
+      }
+    },
+    {
+      "pmid": "24996865",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.9931172132492065,
+        "no": -0.7743672132492065,
+        "maybe": -0.9149922132492065
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.1365724802017212,
+        "no": 0.4620187282562256,
+        "maybe": 0.4014088213443756
+      }
+    },
+    {
+      "pmid": "25007420",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.0917012691497803,
+        "no": -2.0448262691497803,
+        "maybe": -0.29482632875442505
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.12378132343292236,
+        "no": 0.1297217160463333,
+        "maybe": 0.7464969754219055
+      }
+    },
+    {
+      "pmid": "25043083",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.005960902199149132,
+        "no": -12.318460464477539,
+        "maybe": -5.146585941314697
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9941755533218384,
+        "no": 4.469019586395007e-06,
+        "maybe": 0.0058199334889650345
+      }
+    },
+    {
+      "pmid": "25079920",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.3031530380249023,
+        "no": -1.3187780380249023,
+        "maybe": -0.3656530976295471
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.03684175759553909,
+        "no": 0.2680053412914276,
+        "maybe": 0.6951529383659363
+      }
+    },
+    {
+      "pmid": "25103647",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1725628525018692,
+        "no": -4.281938076019287,
+        "maybe": -1.938187837600708
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8421067595481873,
+        "no": 0.0138257360085845,
+        "maybe": 0.14406748116016388
+      }
+    },
+    {
+      "pmid": "25277731",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.34604254364967346,
+        "no": -6.377292633056641,
+        "maybe": -1.236667513847351
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7078133821487427,
+        "no": 0.0017005139961838722,
+        "maybe": 0.29048603773117065
+      }
+    },
+    {
+      "pmid": "25280365",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.6875786185264587,
+        "no": -4.7344536781311035,
+        "maybe": -0.7188286185264587
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5033446550369263,
+        "no": 0.008796907030045986,
+        "maybe": 0.487858384847641
+      }
+    },
+    {
+      "pmid": "25311479",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.048328954726457596,
+        "no": -8.65770435333252,
+        "maybe": -3.0639538764953613
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9531093239784241,
+        "no": 0.00017383556405548006,
+        "maybe": 0.0467168353497982
+      }
+    },
+    {
+      "pmid": "25371231",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.018378563225269318,
+        "no": -13.377753257751465,
+        "maybe": -4.018378734588623
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9820122718811035,
+        "no": 1.54958036091557e-06,
+        "maybe": 0.017986182123422623
+      }
+    },
+    {
+      "pmid": "25394614",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.155783653259277,
+        "no": -0.015158808790147305,
+        "maybe": -4.358908653259277
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0021214555017650127,
+        "no": 0.9850844740867615,
+        "maybe": 0.012794014066457748
+      }
+    },
+    {
+      "pmid": "25475395",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.990762710571289,
+        "no": -0.02201254852116108,
+        "maybe": -3.83451247215271
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00012455950491130352,
+        "no": 0.9782627820968628,
+        "maybe": 0.021612638607621193
+      }
+    },
+    {
+      "pmid": "25481573",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.2465221881866455,
+        "no": -2.0433971881866455,
+        "maybe": -0.5433971881866455
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.28811874985694885,
+        "no": 0.12986530363559723,
+        "maybe": 0.5820159316062927
+      }
+    },
+    {
+      "pmid": "25488308",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -1.2820138931274414,
+        "no": -0.9538889527320862,
+        "maybe": -1.0945138931274414
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.27819564938545227,
+        "no": 0.38623636960983276,
+        "maybe": 0.33556798100471497
+      }
+    },
+    {
+      "pmid": "25499207",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.06245534494519234,
+        "no": -9.859330177307129,
+        "maybe": -2.812455415725708
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9398641586303711,
+        "no": 5.228009104030207e-05,
+        "maybe": 0.060083501040935516
+      }
+    },
+    {
+      "pmid": "25503376",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.011866691522300243,
+        "no": -11.324366569519043,
+        "maybe": -4.449366569519043
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9883008003234863,
+        "no": 1.207626974064624e-05,
+        "maybe": 0.011687115766108036
+      }
+    },
+    {
+      "pmid": "25521278",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0027854950167238712,
+        "no": -14.674660682678223,
+        "maybe": -5.909035682678223
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9972845315933228,
+        "no": 4.2355006257821515e-07,
+        "maybe": 0.0027149838861078024
+      }
+    },
+    {
+      "pmid": "25571931",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.921030521392822,
+        "no": -0.014780658297240734,
+        "maybe": -4.249155521392822
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0003630398423410952,
+        "no": 0.9853602051734924,
+        "maybe": 0.014276749454438686
+      }
+    },
+    {
+      "pmid": "25588461",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.12930816411972046,
+        "no": -11.894932746887207,
+        "maybe": -2.1136832237243652
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8791407346725464,
+        "no": 6.8282965912658256e-06,
+        "maybe": 0.12085240334272385
+      }
+    },
+    {
+      "pmid": "25604390",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002158099552616477,
+        "no": -13.986533164978027,
+        "maybe": -6.158408164978027
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9978834986686707,
+        "no": 8.428357318734925e-07,
+        "maybe": 0.0021157017908990383
+      }
+    },
+    {
+      "pmid": "25614468",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8247361779212952,
+        "no": -3.2466111183166504,
+        "maybe": -0.6528611779212952
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.4393124282360077,
+        "no": 0.03899119421839714,
+        "maybe": 0.5216963887214661
+      }
+    },
+    {
+      "pmid": "25669733",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0008201810996979475,
+        "no": -15.25082015991211,
+        "maybe": -7.141445159912109
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9992081522941589,
+        "no": 2.380483152819579e-07,
+        "maybe": 0.000791629427112639
+      }
+    },
+    {
+      "pmid": "25675614",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.018229562789201736,
+        "no": -13.096354484558105,
+        "maybe": -4.0182294845581055
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9820116758346558,
+        "no": 2.0528589175228262e-06,
+        "maybe": 0.017986172810196877
+      }
+    },
+    {
+      "pmid": "25699562",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.004552120342850685,
+        "no": -14.067051887512207,
+        "maybe": -5.410801887512207
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9955307841300964,
+        "no": 7.776578172524751e-07,
+        "maybe": 0.004468380939215422
+      }
+    },
+    {
+      "pmid": "25725704",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.31037983298301697,
+        "no": -8.872879981994629,
+        "maybe": -1.3260048627853394
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7340165972709656,
+        "no": 0.0001403005444444716,
+        "maybe": 0.2658431828022003
+      }
+    },
+    {
+      "pmid": "25752725",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.08057519048452377,
+        "no": -9.955574989318848,
+        "maybe": -2.5649502277374268
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9229953289031982,
+        "no": 4.748336868942715e-05,
+        "maybe": 0.07695718109607697
+      }
+    },
+    {
+      "pmid": "25752912",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.235164642333984,
+        "no": -0.0007892115972936153,
+        "maybe": -7.219539165496826
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.588671825127676e-05,
+        "no": 0.9992319345474243,
+        "maybe": 0.0007321549928747118
+      }
+    },
+    {
+      "pmid": "25756710",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.14909636974334717,
+        "no": -6.695971488952637,
+        "maybe": -1.9928463697433472
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.862323522567749,
+        "no": 0.0012370821787044406,
+        "maybe": 0.13643939793109894
+      }
+    },
+    {
+      "pmid": "25779009",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.22247976064682007,
+        "no": -4.284979820251465,
+        "maybe": -1.6912298202514648
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8016552329063416,
+        "no": 0.013793240301311016,
+        "maybe": 0.18455152213573456
+      }
+    },
+    {
+      "pmid": "25793749",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5301325917243958,
+        "no": -2.936382532119751,
+        "maybe": -1.030132532119751
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.5893851518630981,
+        "no": 0.05313468351960182,
+        "maybe": 0.3574801981449127
+      }
+    },
+    {
+      "pmid": "25810292",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0016632545739412308,
+        "no": -14.267288208007812,
+        "maybe": -6.4079132080078125
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.998350977897644,
+        "no": 6.365038416333846e-07,
+        "maybe": 0.0016484820516780019
+      }
+    },
+    {
+      "pmid": "25887165",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.003921676892787218,
+        "no": -14.457046508789062,
+        "maybe": -5.5507965087890625
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9961150884628296,
+        "no": 5.264984110908699e-07,
+        "maybe": 0.0038844747468829155
+      }
+    },
+    {
+      "pmid": "25940336",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.5868651866912842,
+        "no": -6.508740425109863,
+        "maybe": -0.8212401866912842
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.557492733001709,
+        "no": 0.0014941752888262272,
+        "maybe": 0.44101306796073914
+      }
+    },
+    {
+      "pmid": "25986020",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.05422342196106911,
+        "no": -11.27297306060791,
+        "maybe": -2.9448485374450684
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9473689198493958,
+        "no": 1.2713874639302958e-05,
+        "maybe": 0.05261828005313873
+      }
+    },
+    {
+      "pmid": "26037986",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.10671030730009079,
+        "no": -4.216085433959961,
+        "maybe": -2.528585195541382
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9048357009887695,
+        "no": 0.014855622313916683,
+        "maybe": 0.08030873537063599
+      }
+    },
+    {
+      "pmid": "26113007",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -11.6568603515625,
+        "no": -0.0006102845072746277,
+        "maybe": -7.4537353515625
+      },
+      "conditional_label_probabilities": {
+        "yes": 8.659633749630302e-06,
+        "no": 0.9994120597839355,
+        "maybe": 0.0005792866577394307
+      }
+    },
+    {
+      "pmid": "26126304",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.13045598566532135,
+        "no": -7.02108097076416,
+        "maybe": -2.11483097076416
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.878361165523529,
+        "no": 0.0008935373043641448,
+        "maybe": 0.1207452341914177
+      }
+    },
+    {
+      "pmid": "26134053",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.3052570819854736,
+        "no": -6.242757320404053,
+        "maybe": -0.320882111787796
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.2714948356151581,
+        "no": 0.0019472986459732056,
+        "maybe": 0.7265578508377075
+      }
+    },
+    {
+      "pmid": "26163474",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.046095769852399826,
+        "no": -11.358595848083496,
+        "maybe": -3.108595848083496
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9553079605102539,
+        "no": 1.1673123481159564e-05,
+        "maybe": 0.04468034952878952
+      }
+    },
+    {
+      "pmid": "26200172",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.012076123617589474,
+        "no": -14.590201377868652,
+        "maybe": -4.433950901031494
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9881304502487183,
+        "no": 4.6090883643046254e-07,
+        "maybe": 0.011869115754961967
+      }
+    },
+    {
+      "pmid": "26209118",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -14.12525749206543,
+        "no": -0.00025769727653823793,
+        "maybe": -8.28150749206543
+      },
+      "conditional_label_probabilities": {
+        "yes": 7.336352609854657e-07,
+        "no": 0.9997461438179016,
+        "maybe": 0.0002531561767682433
+      }
+    },
+    {
+      "pmid": "26215326",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.003772762371227145,
+        "no": -12.566272735595703,
+        "maybe": -5.597522735595703
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9962893724441528,
+        "no": 3.4878762562584598e-06,
+        "maybe": 0.0037072403356432915
+      }
+    },
+    {
+      "pmid": "26304701",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0025957482866942883,
+        "no": -15.893220901489258,
+        "maybe": -5.971345901489258
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9974489808082581,
+        "no": 1.252218027048002e-07,
+        "maybe": 0.0025509120896458626
+      }
+    },
+    {
+      "pmid": "26348845",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -4.185074329376221,
+        "no": -1.4819493293762207,
+        "maybe": -0.2788243293762207
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.015234963037073612,
+        "no": 0.22740168869495392,
+        "maybe": 0.7573632597923279
+      }
+    },
+    {
+      "pmid": "26370095",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.62001895904541,
+        "no": -0.6512690782546997,
+        "maybe": -0.7450190782546997
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.003625538432970643,
+        "no": 0.5215227007865906,
+        "maybe": 0.4748518168926239
+      }
+    },
+    {
+      "pmid": "26418441",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.04864535480737686,
+        "no": -13.95489501953125,
+        "maybe": -3.048645257949829
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.952573299407959,
+        "no": 8.699429372427403e-07,
+        "maybe": 0.047425828874111176
+      }
+    },
+    {
+      "pmid": "26419377",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -4.895264148712158,
+        "no": -0.06713894009590149,
+        "maybe": -2.864013910293579
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.007485028821974993,
+        "no": 0.9354520440101624,
+        "maybe": 0.05706293508410454
+      }
+    },
+    {
+      "pmid": "26460153",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -9.56592082977295,
+        "no": -0.0034212886821478605,
+        "maybe": -5.706546306610107
+      },
+      "conditional_label_probabilities": {
+        "yes": 7.007811655057594e-05,
+        "no": 0.9966057538986206,
+        "maybe": 0.0033242038916796446
+      }
+    },
+    {
+      "pmid": "26471488",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -5.752851963043213,
+        "no": -0.03410177305340767,
+        "maybe": -3.502851724624634
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0031744842417538166,
+        "no": 0.9667068123817444,
+        "maybe": 0.03011867217719555
+      }
+    },
+    {
+      "pmid": "26516021",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0018814972136169672,
+        "no": -13.25188159942627,
+        "maybe": -6.2987565994262695
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9981595873832703,
+        "no": 1.7571065882293624e-06,
+        "maybe": 0.0018386620795354247
+      }
+    },
+    {
+      "pmid": "26536001",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.985754013061523,
+        "no": -0.0013786583440378308,
+        "maybe": -6.626378536224365
+      },
+      "conditional_label_probabilities": {
+        "yes": 1.694195088930428e-05,
+        "no": 0.9986580610275269,
+        "maybe": 0.0013249999610707164
+      }
+    },
+    {
+      "pmid": "26548832",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.06637955456972122,
+        "no": -5.472629547119141,
+        "maybe": -2.8163795471191406
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9359647035598755,
+        "no": 0.0042010219767689705,
+        "maybe": 0.05983421951532364
+      }
+    },
+    {
+      "pmid": "26556589",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.198214530944824,
+        "no": -0.01071497518569231,
+        "maybe": -4.573215007781982
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0002751602150965482,
+        "no": 0.9893994927406311,
+        "maybe": 0.010325310751795769
+      }
+    },
+    {
+      "pmid": "26561905",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.021589968353509903,
+        "no": -11.084090232849121,
+        "maybe": -3.849714994430542
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9786975979804993,
+        "no": 1.5355566574726254e-05,
+        "maybe": 0.02128702402114868
+      }
+    },
+    {
+      "pmid": "26578404",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.010118852369487286,
+        "no": -14.83824348449707,
+        "maybe": -4.6038689613342285
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.989986002445221,
+        "no": 3.5963023492513457e-07,
+        "maybe": 0.01001356728374958
+      }
+    },
+    {
+      "pmid": "26601554",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.7122342586517334,
+        "no": -9.774734497070312,
+        "maybe": -0.6809842586517334
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.49216002225875854,
+        "no": 5.7057484809774905e-05,
+        "maybe": 0.5077828764915466
+      }
+    },
+    {
+      "pmid": "26606599",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -3.969770669937134,
+        "no": -0.032270751893520355,
+        "maybe": -4.391645908355713
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.01888715662062168,
+        "no": 0.9687263369560242,
+        "maybe": 0.012386498972773552
+      }
+    },
+    {
+      "pmid": "26708803",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.01804928109049797,
+        "no": -9.627424240112305,
+        "maybe": -4.033674240112305
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9822229146957397,
+        "no": 6.590395787497982e-05,
+        "maybe": 0.017711130902171135
+      }
+    },
+    {
+      "pmid": "26778755",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.8187899589538574,
+        "no": -1.2094149589538574,
+        "maybe": -1.3500399589538574
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.44159790873527527,
+        "no": 0.29880011081695557,
+        "maybe": 0.25960201025009155
+      }
+    },
+    {
+      "pmid": "26820719",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -1.1872109174728394,
+        "no": -3.280961036682129,
+        "maybe": -0.42158594727516174
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.30547764897346497,
+        "no": 0.0376422293484211,
+        "maybe": 0.6568801403045654
+      }
+    },
+    {
+      "pmid": "26852225",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.3507251739501953,
+        "no": -5.225725173950195,
+        "maybe": -1.2413501739501953
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.7052015662193298,
+        "no": 0.005384279880672693,
+        "maybe": 0.2894141376018524
+      }
+    },
+    {
+      "pmid": "26864326",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.20551732182502747,
+        "no": -7.018017292022705,
+        "maybe": -1.689892292022705
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8145021200180054,
+        "no": 0.0008959031547419727,
+        "maybe": 0.18460197746753693
+      }
+    },
+    {
+      "pmid": "26879871",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.03572644665837288,
+        "no": -5.926351547241211,
+        "maybe": -3.441976547241211
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.965315580368042,
+        "no": 0.002669336972758174,
+        "maybe": 0.03201501816511154
+      }
+    },
+    {
+      "pmid": "26907557",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0016943159280344844,
+        "no": -15.767319679260254,
+        "maybe": -6.392319202423096
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.998325526714325,
+        "no": 1.4201958720150287e-07,
+        "maybe": 0.001674399245530367
+      }
+    },
+    {
+      "pmid": "26923375",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.10201810300350189,
+        "no": -11.570768356323242,
+        "maybe": -2.336393117904663
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9032856822013855,
+        "no": 9.440831490792334e-06,
+        "maybe": 0.0967048779129982
+      }
+    },
+    {
+      "pmid": "26965932",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.5385184288024902,
+        "no": -2.4760184288024902,
+        "maybe": -0.1791435033082962
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0790587067604065,
+        "no": 0.0841575562953949,
+        "maybe": 0.8367837071418762
+      }
+    },
+    {
+      "pmid": "27040842",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.189162254333496,
+        "no": -0.06416232138872147,
+        "maybe": -2.814162254333496
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0020518333185464144,
+        "no": 0.9379847645759583,
+        "maybe": 0.05996336042881012
+      }
+    },
+    {
+      "pmid": "27044366",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -7.176853656768799,
+        "no": -0.004978759214282036,
+        "maybe": -5.489353656768799
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0007641228730790317,
+        "no": 0.9951050281524658,
+        "maybe": 0.004130809102207422
+      }
+    },
+    {
+      "pmid": "27050489",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.12534572184085846,
+        "no": -11.203471183776855,
+        "maybe": -2.1409707069396973
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.882415771484375,
+        "no": 1.3630276953335851e-05,
+        "maybe": 0.11757052689790726
+      }
+    },
+    {
+      "pmid": "27096199",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.8496235609054565,
+        "no": -1.1933735609054565,
+        "maybe": -1.3183735609054565
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.42828568816185,
+        "no": 0.3037000000476837,
+        "maybe": 0.2680143415927887
+      }
+    },
+    {
+      "pmid": "27131771",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -2.5475940704345703,
+        "no": -2.0475940704345703,
+        "maybe": -0.2350940704345703
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.07844143360853195,
+        "no": 0.12932805716991425,
+        "maybe": 0.7922304272651672
+      }
+    },
+    {
+      "pmid": "27136599",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.15490096807479858,
+        "no": -6.858026027679443,
+        "maybe": -1.9517760276794434
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.8568662405014038,
+        "no": 0.0010514359455555677,
+        "maybe": 0.1420823335647583
+      }
+    },
+    {
+      "pmid": "27217036",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.00428187707439065,
+        "no": -13.801156997680664,
+        "maybe": -5.473031997680664
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9958000779151917,
+        "no": 1.014531335385982e-06,
+        "maybe": 0.004198790527880192
+      }
+    },
+    {
+      "pmid": "27281318",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.9639794826507568,
+        "no": -2.557729482650757,
+        "maybe": -0.6202294826507568
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.38264498114585876,
+        "no": 0.07773904502391815,
+        "maybe": 0.5396159291267395
+      }
+    },
+    {
+      "pmid": "27287237",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.015110080130398273,
+        "no": -8.81198501586914,
+        "maybe": -4.218235015869141
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9851245880126953,
+        "no": 0.0001489556161686778,
+        "maybe": 0.014726419933140278
+      }
+    },
+    {
+      "pmid": "27338535",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.3673930168151855,
+        "no": -0.039267901331186295,
+        "maybe": -3.3048930168151855
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0017167783807963133,
+        "no": 0.9615768790245056,
+        "maybe": 0.036706339567899704
+      }
+    },
+    {
+      "pmid": "27394685",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -12.921998023986816,
+        "no": -0.0001227780303452164,
+        "maybe": -9.140748023986816
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.4437308638880495e-06,
+        "no": 0.9998903274536133,
+        "maybe": 0.00010720854334067553
+      }
+    },
+    {
+      "pmid": "27456836",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.013177921064198017,
+        "no": -13.825677871704102,
+        "maybe": -4.341302871704102
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9869785308837891,
+        "no": 9.899544011204853e-07,
+        "maybe": 0.013020477257668972
+      }
+    },
+    {
+      "pmid": "27549226",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0046000611037015915,
+        "no": -15.379600524902344,
+        "maybe": -5.3952250480651855
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9954612851142883,
+        "no": 2.0928915489548672e-07,
+        "maybe": 0.004538430366665125
+      }
+    },
+    {
+      "pmid": "27592038",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.484600305557251,
+        "no": -6.047100067138672,
+        "maybe": -0.968975305557251
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.6173139214515686,
+        "no": 0.002369971014559269,
+        "maybe": 0.3803160786628723
+      }
+    },
+    {
+      "pmid": "27615402",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.706351280212402,
+        "no": -0.0032261963933706284,
+        "maybe": -5.753226280212402
+      },
+      "conditional_label_probabilities": {
+        "yes": 2.2402788090403192e-05,
+        "no": 0.99680495262146,
+        "maybe": 0.003172611817717552
+      }
+    },
+    {
+      "pmid": "27642458",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.7380752563476562,
+        "no": -0.7537001371383667,
+        "maybe": -0.7693251371383667
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.06478270143270493,
+        "no": 0.47126173973083496,
+        "maybe": 0.46395552158355713
+      }
+    },
+    {
+      "pmid": "27643961",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -2.613140821456909,
+        "no": -0.581890881061554,
+        "maybe": -1.0037658214569092
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.07340367138385773,
+        "no": 0.5596010088920593,
+        "maybe": 0.36699530482292175
+      }
+    },
+    {
+      "pmid": "27757987",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -10.188615798950195,
+        "no": -0.0011156531982123852,
+        "maybe": -6.844865798950195
+      },
+      "conditional_label_probabilities": {
+        "yes": 3.759636456379667e-05,
+        "no": 0.9988974332809448,
+        "maybe": 0.0010649226605892181
+      }
+    },
+    {
+      "pmid": "27818079",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0022285168524831533,
+        "no": -17.111602783203125,
+        "maybe": -6.111603736877441
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9977830052375793,
+        "no": 3.702788475834495e-08,
+        "maybe": 0.002217013156041503
+      }
+    },
+    {
+      "pmid": "27858166",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -0.8366405963897705,
+        "no": -4.774140357971191,
+        "maybe": -0.5866405963897705
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.43411779403686523,
+        "no": 0.008463949896395206,
+        "maybe": 0.5574182868003845
+      }
+    },
+    {
+      "pmid": "27989969",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -8.173251152038574,
+        "no": -0.0013758012792095542,
+        "maybe": -6.860750675201416
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.00028211207245476544,
+        "no": 0.9986697435379028,
+        "maybe": 0.0010481735225766897
+      }
+    },
+    {
+      "pmid": "28056802",
+      "prediction": "maybe",
+      "label_log_probabilities": {
+        "yes": -3.608543872833252,
+        "no": -1.2960437536239624,
+        "maybe": -0.3585437536239624
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.02710762992501259,
+        "no": 0.2737773656845093,
+        "maybe": 0.699114978313446
+      }
+    },
+    {
+      "pmid": "28143468",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.002808675868436694,
+        "no": -14.190308570861816,
+        "maybe": -5.893433570861816
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9972416162490845,
+        "no": 6.874599876027787e-07,
+        "maybe": 0.0027576202992349863
+      }
+    },
+    {
+      "pmid": "28196511",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.373082637786865,
+        "no": -0.0293325986713171,
+        "maybe": -3.6074576377868652
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.001707024173811078,
+        "no": 0.9711701273918152,
+        "maybe": 0.027122853323817253
+      }
+    },
+    {
+      "pmid": "28247485",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.0048909783363342285,
+        "no": -14.614266395568848,
+        "maybe": -5.3330159187316895
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9951698184013367,
+        "no": 4.499106012190168e-07,
+        "maybe": 0.004829720128327608
+      }
+    },
+    {
+      "pmid": "28359277",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.1883738785982132,
+        "no": -9.688373565673828,
+        "maybe": -1.7664989233016968
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.828887403011322,
+        "no": 6.204374221852049e-05,
+        "maybe": 0.171050563454628
+      }
+    },
+    {
+      "pmid": "28707539",
+      "prediction": "yes",
+      "label_log_probabilities": {
+        "yes": -0.05617296323180199,
+        "no": -8.243673324584961,
+        "maybe": -2.9155478477478027
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.9455525279045105,
+        "no": 0.0002629659720696509,
+        "maybe": 0.05418447405099869
+      }
+    },
+    {
+      "pmid": "29112560",
+      "prediction": "no",
+      "label_log_probabilities": {
+        "yes": -6.315367698669434,
+        "no": -0.018492786213755608,
+        "maybe": -4.112242698669434
+      },
+      "conditional_label_probabilities": {
+        "yes": 0.0018085601041093469,
+        "no": 0.9818180203437805,
+        "maybe": 0.016373366117477417
+      }
+    }
+  ],
+  "timing": {
+    "runtime_seconds": 92.73550847800004,
+    "forward_passes": 125,
+    "batch_size": 4,
+    "candidate_token_ids": {
+      "yes": 9693,
+      "no": 2152,
+      "maybe": 36760
+    },
+    "metric_protocol": "label_score_v1",
+    "n": 500
+  }
+}

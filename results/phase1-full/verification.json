@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "n": 500,
+  "checks": [
+    "500 unique official IDs and no foreign rows",
+    "raw request/input hashes",
+    "frozen smoke configuration and code hashes",
+    "JSON and exact-quote checks",
+    "artifact checksums",
+    "independent TP/FP/FN metrics and confusion matrices",
+    "independent mean and linear p95 latency",
+    "no gold fields in inference journal",
+    "zero judge calls"
+  ]
+}

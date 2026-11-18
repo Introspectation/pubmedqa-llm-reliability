@@ -1,0 +1,34 @@
+{
+  "created_at_utc": "2026-11-16T12:52:38.274Z",
+  "source": "Original Q4 Drive artifacts, copied as UTF-8 without content changes",
+  "files": [
+    {
+      "file": "base_predictions.json",
+      "bytes": 189409,
+      "sha256": "515c1b969748cd25f3fc44131198eecc432e264de3a92c65ca3e7cba5bf543c1",
+      "n_predictions": 500,
+      "source_modified_utc": "2026-11-07T08:29:56.307Z"
+    },
+    {
+      "file": "A_predictions.json",
+      "bytes": 189128,
+      "sha256": "575ff9ab7f7aa73b0471bb10eb7985e1d8363f2c145b3a8842a60cc75a3ed649",
+      "n_predictions": 500,
+      "source_modified_utc": "2026-11-07T08:31:29.450Z"
+    },
+    {
+      "file": "B_predictions.json",
+      "bytes": 190366,
+      "sha256": "1492a4d5eeef3cacab5a3a8ae5a9febfaf241c1430eaddf49880af01c3c92095",
+      "n_predictions": 500,
+      "source_modified_utc": "2026-11-07T08:33:03.385Z"
+    },
+    {
+      "file": "manifest.json",
+      "bytes": 2561,
+      "sha256": "415a290922cd554d2676b3ddb60d9a3d0282fb70b61630ceed442ecfb5b1de6d",
+      "n_predictions": 0,
+      "source_modified_utc": "2026-11-07T08:28:36.884Z"
+    }
+  ]
+}

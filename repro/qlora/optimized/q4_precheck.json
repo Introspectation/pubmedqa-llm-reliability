@@ -1,0 +1,67 @@
+{
+  "status": "cpu_precheck_passed",
+  "gpu_execution": false,
+  "source_notebook_sha256": "6bada4bf5721050de4226f9471a397841b261e9d255a71ae4de348b5bf9f19e5",
+  "system_prompt_sha256": "4b10f5318515f435f9f0a47e49baedcb994269174608532959aec6eba5610920",
+  "expected_prompt_sha256": "4b10f5318515f435f9f0a47e49baedcb994269174608532959aec6eba5610920",
+  "prompt_matches": true,
+  "chat_template_sha256": "08abd1e4b98ff5e26ff06e8f18a09aa01b4be154d40b0de94d8cf14ab4a76fc7",
+  "original_enable_thinking_false_argument": false,
+  "effective_non_thinking": true,
+  "overlap_check": {
+    "counts": {
+      "train": 0,
+      "dev": 0,
+      "artificial": 0
+    },
+    "overlapping_pmids": {
+      "train": [],
+      "dev": [],
+      "artificial": []
+    }
+  },
+  "tokenizer": {
+    "revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+    "json_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+    "library_version": "0.23.1"
+  },
+  "lengths": {
+    "train": {
+      "n": 450,
+      "truncated_count": 0,
+      "truncated_fraction": 0.0,
+      "over_1024_count": 0,
+      "over_1024_fraction": 0.0,
+      "max_original_tokens": 986,
+      "sequence_definition": "training_prompt_plus_supervised_label_and_closing_quote"
+    },
+    "dev": {
+      "n": 50,
+      "truncated_count": 0,
+      "truncated_fraction": 0.0,
+      "over_1024_count": 0,
+      "over_1024_fraction": 0.0,
+      "max_original_tokens": 735,
+      "sequence_definition": "full_label_score_readout_prompt"
+    },
+    "artificial": {
+      "n": 2000,
+      "truncated_count": 1,
+      "truncated_fraction": 0.0005,
+      "over_1024_count": 1,
+      "over_1024_fraction": 0.0005,
+      "max_original_tokens": 1097,
+      "sequence_definition": "training_prompt_plus_supervised_label_and_closing_quote"
+    },
+    "heldout": {
+      "n": 500,
+      "truncated_count": 0,
+      "truncated_fraction": 0.0,
+      "over_1024_count": 0,
+      "over_1024_fraction": 0.0,
+      "max_original_tokens": 827,
+      "sequence_definition": "full_label_score_readout_prompt"
+    }
+  },
+  "q4_scores": "not_run_no_gpu"
+}

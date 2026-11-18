@@ -1,0 +1,11 @@
+# Reproduction artifacts include raw-byte SHA-256 pins. Preserve the saved bytes.
+/repro/qlora/** -text
+/repro/qlora/optimized/q4_precheck.json whitespace=cr-at-eol
+/repro/qlora/optimized/q4b_safety_rubric.md whitespace=-blank-at-eol
+/runs/qlora/optimized/q4b_manifest.json -text
+/runs/qlora/optimized/q4b_safety_rubric.md -text
+/data/*.jsonl text eol=lf
+/data/*_pmids.txt text eol=lf
+/medical_qa/prompt.txt text eol=lf
+/requirements.txt text eol=lf
+/results/phase1-full/results-summary.json text eol=lf

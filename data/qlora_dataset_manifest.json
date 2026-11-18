@@ -1,0 +1,84 @@
+{
+  "stage": "qlora_data_preparation_only",
+  "seed": 42,
+  "training_started": false,
+  "dataset_repo": "qiaojin/PubMedQA",
+  "dataset_revision": "323752ad243ce751ba75c9222d34a3130d080030",
+  "labeled_source": {
+    "file": "pqa_labeled/train-00000-of-00001.parquet",
+    "sha256": "3d56bd1abc11884579ecc3aab9dd3cdfce8b7cf54715daeca93b8022b7be231c"
+  },
+  "artificial_source": {
+    "file": "pqa_artificial/train-00000-of-00001.parquet",
+    "url": "https://huggingface.co/datasets/qiaojin/PubMedQA/resolve/323752ad243ce751ba75c9222d34a3130d080030/pqa_artificial/train-00000-of-00001.parquet",
+    "sha256": "cdee2d3c01369f47d2ea7b89cd32ee64b142cc0debcb863bf39b3a81a3cece05",
+    "source_rows": 211269,
+    "source_unique_pmids": 211269,
+    "excluded_labeled_pmids": 0,
+    "eligible_label_counts": {
+      "yes": 196144,
+      "no": 15125
+    }
+  },
+  "heldout_file": "runs/phase1-full/analysis/heldout_pmids.txt",
+  "heldout_pmids_sha256": "47849e7e0720ae18baf9d49e35c40a1a4975eb277c5d2ceb917b57b7ad7f72fb",
+  "split_method": "Numerically sort the 500 non-held-out PMIDs; sklearn train_test_split(train_size=450, test_size=50, stratify=labels, random_state=42). Sort exported parts numerically.",
+  "artificial_method": "Exclude all 1,000 PQA-L PMIDs; sort candidates numerically per class; one random.Random(42) samples 1,000 yes then 1,000 no without replacement. Export numerically sorted.",
+  "schema": [
+    "pmid",
+    "question",
+    "contexts",
+    "label",
+    "source"
+  ],
+  "label_counts": {
+    "train": {
+      "yes": 248,
+      "no": 152,
+      "maybe": 50
+    },
+    "dev": {
+      "yes": 28,
+      "no": 17,
+      "maybe": 5
+    },
+    "artificial": {
+      "yes": 1000,
+      "no": 1000,
+      "maybe": 0
+    }
+  },
+  "overlap_checks": {
+    "train": {
+      "exit_code": 0,
+      "stdout": "Training PMIDs (unique): 450\nHeld-out overlap count: 0\n"
+    },
+    "dev": {
+      "exit_code": 0,
+      "stdout": "Training PMIDs (unique): 50\nHeld-out overlap count: 0\n"
+    },
+    "artificial": {
+      "exit_code": 0,
+      "stdout": "Training PMIDs (unique): 2000\nHeld-out overlap count: 0\n"
+    }
+  },
+  "pairwise_split_overlap_counts": {
+    "train_dev": 0,
+    "train_artificial": 0,
+    "dev_artificial": 0
+  },
+  "artifact_sha256": {
+    "train.jsonl": "c23640e409a70d05d721ebc7cfb50ff6094a4efe239da00e0ea23fabe17d554c",
+    "train_pmids.txt": "0e5018cfd87dadf6e4a5b395d4806481dde6596677a8d650f4359687ae915be0",
+    "dev.jsonl": "7a12004338645110ad4560a939250ecc294b4025fffd13cdadd1ed6a24cb3050",
+    "dev_pmids.txt": "e26a18e464d235e50ba5f6c51da2d8016477d3bb3320a0b53b84af86426d238f",
+    "artificial.jsonl": "baeb4fba018acde958d38f4ce2fbea73a0c958e3629809962776226e1ce040c9",
+    "artificial_pmids.txt": "d0f8d07e9cbbce5348fb80ea5ff207d754652e5c6df2e367ab47c780d761f767"
+  },
+  "builder_sha256": "3178252a0939950ee832f624aedf956e7d5773feba50e46852aa2c11ef9dae9f",
+  "overlap_checker_sha256": "2ddba094b70c6e81c815d9cf9b29c008c72ac308c0738a4fc6ffb722b66c49da",
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "pyarrow": "26.0.0"
+  }
+}

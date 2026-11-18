@@ -1,0 +1,238 @@
+{
+  "status": "complete",
+  "created_at_utc": "2026-11-07T08:33:03.435088+00:00",
+  "n": 500,
+  "overlap_check": {
+    "counts": {
+      "train": 0,
+      "dev": 0,
+      "artificial": 0
+    },
+    "overlapping_pmids": {
+      "train": [],
+      "dev": [],
+      "artificial": []
+    }
+  },
+  "protocol": {
+    "name": "label_score_v1",
+    "hf_model": "Qwen/Qwen3-1.7B",
+    "hf_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+    "prompt_sha256": "4b10f5318515f435f9f0a47e49baedcb994269174608532959aec6eba5610920",
+    "source_notebook_sha256": "6bada4bf5721050de4226f9471a397841b261e9d255a71ae4de348b5bf9f19e5",
+    "scorer_source_sha256": "98f80c427471536cf75be8784b9f6c5a376dc62f7d680de87dadb6133ba6f69a",
+    "runner_sha256": "885d666378a08f482f5b710e6d9ff6129c44a62167c50c130287a3f6295c808d",
+    "batch_size": 4,
+    "input_policy": "full_untruncated_abstract_plus_fixed_JSON_label_prefix",
+    "thinking": "fixed_non_thinking_template",
+    "nf4_double_quant": true,
+    "compute_dtype": "float16",
+    "non_quantized_weights": "prepared_fp32",
+    "environment": {
+      "gpu": "Tesla T4",
+      "torch": "2.14.1+cu130",
+      "cuda": "13.0",
+      "packages": {
+        "transformers": "4.57.3",
+        "peft": "0.18.0",
+        "bitsandbytes": "0.48.2",
+        "scikit-learn": "1.7.2",
+        "tokenizers": "0.22.2"
+      }
+    }
+  },
+  "adapters": {
+    "A": {
+      "path": "/content/drive/MyDrive/AI_PUBMED/qlora_runs/pubmedqa_qlora_v1/A_train_only/best_adapter",
+      "sha256": {
+        "adapter_config.json": "e113b41b9bce5be607747a2fc11146fee54dbc978ffa0b341346a635094fbe69",
+        "adapter_model.safetensors": "1f92176c8eeefccd0e9aacc200019a1e27bab13affc0c71fe1390392b3245196"
+      },
+      "best_checkpoint": "/content/drive/MyDrive/AI_PUBMED/qlora_runs/pubmedqa_qlora_v1/A_train_only/checkpoint-87",
+      "best_dev_macro_f1": 0.5845189293465155,
+      "selection_protocol": "original_generated_json_dev_macro_f1",
+      "summary_sha256": "38bb73be16c2caa4ddc11973e6d739c036549828c5381f279bb6ecba2388eeae"
+    },
+    "B": {
+      "path": "/content/drive/MyDrive/AI_PUBMED/runs/qlora/optimized/pubmedqa_qlora_label_score_v1/B_with_artificial/best_adapter",
+      "sha256": {
+        "adapter_config.json": "d1282c0c1a04949788aa455fed7d4d802d31d804e615641b0c6f39f2f5e80128",
+        "adapter_model.safetensors": "83309fc77f17d1b1497a97acc03e9cd84a9076d80f86acd403804c8ecae627fe"
+      },
+      "best_checkpoint": "/content/drive/MyDrive/AI_PUBMED/runs/qlora/optimized/pubmedqa_qlora_label_score_v1/B_with_artificial/checkpoint-489",
+      "best_dev_macro_f1": 0.6371838687628161,
+      "selection_protocol": "label_score_v1",
+      "summary_sha256": "ab393056c48893aac5c4d962971b94be7ed7aa4f0e260876341025e0946806d0"
+    }
+  },
+  "models": {
+    "base": {
+      "metric_protocol": "label_score_v1",
+      "n": 500,
+      "accuracy": 0.408,
+      "macro_f1": 0.40906854751032834,
+      "confusion_matrix": {
+        "row_labels": [
+          "yes",
+          "no",
+          "maybe"
+        ],
+        "column_labels": [
+          "yes",
+          "no",
+          "maybe"
+        ],
+        "values": [
+          [
+            74,
+            44,
+            158
+          ],
+          [
+            6,
+            93,
+            70
+          ],
+          [
+            9,
+            9,
+            37
+          ]
+        ]
+      },
+      "invalid_label_count": 0,
+      "json_parse_failure_count": null,
+      "json_parse_failure_applicable": false,
+      "evidence_generation_evaluated": false,
+      "timing": {
+        "runtime_seconds": 79.37341873100002,
+        "forward_passes": 125,
+        "batch_size": 4,
+        "candidate_token_ids": {
+          "yes": 9693,
+          "no": 2152,
+          "maybe": 36760
+        },
+        "metric_protocol": "label_score_v1",
+        "n": 500
+      }
+    },
+    "A": {
+      "metric_protocol": "label_score_v1",
+      "n": 500,
+      "accuracy": 0.622,
+      "macro_f1": 0.5233853439252281,
+      "confusion_matrix": {
+        "row_labels": [
+          "yes",
+          "no",
+          "maybe"
+        ],
+        "column_labels": [
+          "yes",
+          "no",
+          "maybe"
+        ],
+        "values": [
+          [
+            181,
+            33,
+            62
+          ],
+          [
+            21,
+            118,
+            30
+          ],
+          [
+            27,
+            16,
+            12
+          ]
+        ]
+      },
+      "invalid_label_count": 0,
+      "json_parse_failure_count": null,
+      "json_parse_failure_applicable": false,
+      "evidence_generation_evaluated": false,
+      "timing": {
+        "runtime_seconds": 92.73550847800004,
+        "forward_passes": 125,
+        "batch_size": 4,
+        "candidate_token_ids": {
+          "yes": 9693,
+          "no": 2152,
+          "maybe": 36760
+        },
+        "metric_protocol": "label_score_v1",
+        "n": 500
+      }
+    },
+    "B": {
+      "metric_protocol": "label_score_v1",
+      "n": 500,
+      "accuracy": 0.706,
+      "macro_f1": 0.5467696696193954,
+      "confusion_matrix": {
+        "row_labels": [
+          "yes",
+          "no",
+          "maybe"
+        ],
+        "column_labels": [
+          "yes",
+          "no",
+          "maybe"
+        ],
+        "values": [
+          [
+            223,
+            36,
+            17
+          ],
+          [
+            34,
+            124,
+            11
+          ],
+          [
+            31,
+            18,
+            6
+          ]
+        ]
+      },
+      "invalid_label_count": 0,
+      "json_parse_failure_count": null,
+      "json_parse_failure_applicable": false,
+      "evidence_generation_evaluated": false,
+      "timing": {
+        "runtime_seconds": 93.42313497500004,
+        "forward_passes": 125,
+        "batch_size": 4,
+        "candidate_token_ids": {
+          "yes": 9693,
+          "no": 2152,
+          "maybe": 36760
+        },
+        "metric_protocol": "label_score_v1",
+        "n": 500
+      }
+    }
+  },
+  "reference_rows": [
+    {
+      "system": "Ollama qwen3:1.7b Q4_K_M (separate reference)",
+      "n": 500,
+      "accuracy": 0.654,
+      "macro_f1": 0.4690117760675252,
+      "source": "runs/phase1-full/results-summary.json",
+      "source_sha256": "415592308608c2a25b02393d91d4babf5fb08f5c3a2c8b61f6775187a9dc69e0",
+      "comparable_backend_to_hf": false,
+      "runtime": "Ollama/GGUF Q4_K_M",
+      "metric_protocol": "generated_json_label_and_evidence",
+      "different_runtime": true
+    }
+  ],
+  "interpretation": "Base/A/B share label_score_v1 and HF NF4 runtime. Ollama uses generated JSON on GGUF/Ollama and is a separate reference. A/B checkpoint-selection protocols differ and are preserved."
+}

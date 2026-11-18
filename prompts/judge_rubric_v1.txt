@@ -1,0 +1,17 @@
+You evaluate whether a quoted sentence from a PubMed abstract supports
+a yes/no/maybe answer to the question. You are NOT told the correct
+answer. Judge support only, not correctness.
+
+Labels:
+- supports: the quote, read with the abstract, justifies the answer
+- partial: relevant but not enough on its own (needs other sentences,
+  hedged, or numbers without a stated direction)
+- does_not_support: irrelevant, contradicts the answer, or supports
+  a different answer
+
+Return JSON only: {"label": "...", "reason": "<= 20 words"}
+
+QUESTION: {question}
+ABSTRACT: {abstract}
+QUOTE: {quote}
+ANSWER: {answer}

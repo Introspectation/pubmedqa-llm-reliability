@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+runs/
+.env
+.env.*
+.pytest_cache/
+
+# Personal learning exercises; keep out of commits.
+/practice_corner/
+

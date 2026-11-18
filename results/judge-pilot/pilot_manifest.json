@@ -1,0 +1,67 @@
+{
+  "created_at_utc": "2026-11-01T12:59:57.009407+00:00",
+  "seed": 42,
+  "sample_size": 20,
+  "stratum_sample_sizes": {
+    "correct": 10,
+    "wrong": 10
+  },
+  "selection_method": "Numerically sorted pools; Random(42).sample(correct,10), sample(wrong,10), then shuffle.",
+  "gold_usage": "Preparation/stratification only. No gold or per-case correctness is exported.",
+  "human_labels_policy": "Human-owned file; never read by the judge runner or overwritten on preparation.",
+  "hash_method": "New pilot/rubric hashes use UTF-8 text with LF-normalized newlines.",
+  "pilot_ids_sha256": "c200ffd38805093093f92edcff87fe92309081d8726c4c8040d7b9bd454a1fd3",
+  "pilot_inputs_sha256": "ffbe8839408ef27fe2ffbe781f8ebd99a72cf8f6ab584cb887d9d062e74effa9",
+  "human_labels_template_sha256": "fa48b8ab7e505d9af9ee15cc1e501bd7447c93ad318dcc16458cbf8620d6e1d1",
+  "rubric_sha256": "7f33a351a87c9d41ab127a5fbde0e08a726eeeb929cb3ecb03d4b024a2205721",
+  "judge_calls_during_preparation": 0,
+  "eligible_quote_matched_cases": 483,
+  "source_summary_sha256": "415592308608c2a25b02393d91d4babf5fb08f5c3a2c8b61f6775187a9dc69e0",
+  "source_validated_predictions_sha256": "79f16b9c28f358803aeccf2d78c16a8dcb47c38c2099b7bbf065ee301e44f9c3",
+  "source_frozen_config": {
+    "model": "qwen3:1.7b",
+    "model_digest": "8f68893c685c3ddff2aa3fffce2aa60a30bb2da65ca488b61fff134a4d1730e7",
+    "ollama_server_version": "0.40.13",
+    "options": {
+      "temperature": 0,
+      "seed": 0,
+      "num_ctx": 8192,
+      "num_predict": 512
+    },
+    "think": false,
+    "response_schema": {
+      "type": "object",
+      "properties": {
+        "label": {
+          "type": "string",
+          "enum": [
+            "yes",
+            "no",
+            "maybe"
+          ]
+        },
+        "evidence": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "label",
+        "evidence"
+      ],
+      "additionalProperties": false
+    },
+    "prompt_sha256": "4b10f5318515f435f9f0a47e49baedcb994269174608532959aec6eba5610920",
+    "sources": {
+      "dataset_repo": "qiaojin/PubMedQA",
+      "dataset_config": "pqa_labeled",
+      "dataset_split": "train",
+      "dataset_revision": "323752ad243ce751ba75c9222d34a3130d080030",
+      "dataset_file": "pqa_labeled/train-00000-of-00001.parquet",
+      "dataset_file_sha256": "3d56bd1abc11884579ecc3aab9dd3cdfce8b7cf54715daeca93b8022b7be231c",
+      "official_revision": "1cbae8e92f72f20c8d3747cbb3bf5bc53554d997",
+      "official_test_url": "https://raw.githubusercontent.com/pubmedqa/pubmedqa/1cbae8e92f72f20c8d3747cbb3bf5bc53554d997/data/test_ground_truth.json",
+      "test_pmids_sha256": "47849e7e0720ae18baf9d49e35c40a1a4975eb277c5d2ceb917b57b7ad7f72fb"
+    },
+    "requirements_sha256": "b942e509e0f7750fd7bd0b0557f52e60ca72a0a6ad9fcc8aa5c724a44f14b3d6"
+  }
+}

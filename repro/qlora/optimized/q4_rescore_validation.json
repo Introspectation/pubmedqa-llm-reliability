@@ -1,0 +1,247 @@
+{
+  "status": "passed",
+  "created_at_utc": "2026-11-16T13:07:37.891289+00:00",
+  "audit_type": "per_PMID_rescore_of_frozen_Q4_predictions",
+  "n": 500,
+  "models": {
+    "base": {
+      "recomputed": {
+        "n": 500,
+        "correct": 204,
+        "accuracy": 0.408,
+        "macro_f1": 0.40906854751032834,
+        "per_class": {
+          "yes": {
+            "precision": 0.8314606741573034,
+            "recall": 0.26811594202898553,
+            "f1": 0.4054794520547945,
+            "support": 276,
+            "predicted_count": 89
+          },
+          "no": {
+            "precision": 0.636986301369863,
+            "recall": 0.5502958579881657,
+            "f1": 0.5904761904761905,
+            "support": 169,
+            "predicted_count": 146
+          },
+          "maybe": {
+            "precision": 0.13962264150943396,
+            "recall": 0.6727272727272727,
+            "f1": 0.23125,
+            "support": 55,
+            "predicted_count": 265
+          }
+        },
+        "confusion_matrix": {
+          "row_labels": [
+            "yes",
+            "no",
+            "maybe"
+          ],
+          "column_labels": [
+            "yes",
+            "no",
+            "maybe"
+          ],
+          "values": [
+            [
+              74,
+              44,
+              158
+            ],
+            [
+              6,
+              93,
+              70
+            ],
+            [
+              9,
+              9,
+              37
+            ]
+          ]
+        }
+      },
+      "matches_reference": true,
+      "mismatched_fields": [],
+      "reference_accuracy": 0.408,
+      "reference_macro_f1": 0.40906854751032834
+    },
+    "A": {
+      "recomputed": {
+        "n": 500,
+        "correct": 311,
+        "accuracy": 0.622,
+        "macro_f1": 0.5233853439252281,
+        "per_class": {
+          "yes": {
+            "precision": 0.7903930131004366,
+            "recall": 0.6557971014492754,
+            "f1": 0.7168316831683168,
+            "support": 276,
+            "predicted_count": 229
+          },
+          "no": {
+            "precision": 0.7065868263473054,
+            "recall": 0.6982248520710059,
+            "f1": 0.7023809523809523,
+            "support": 169,
+            "predicted_count": 167
+          },
+          "maybe": {
+            "precision": 0.11538461538461539,
+            "recall": 0.21818181818181817,
+            "f1": 0.1509433962264151,
+            "support": 55,
+            "predicted_count": 104
+          }
+        },
+        "confusion_matrix": {
+          "row_labels": [
+            "yes",
+            "no",
+            "maybe"
+          ],
+          "column_labels": [
+            "yes",
+            "no",
+            "maybe"
+          ],
+          "values": [
+            [
+              181,
+              33,
+              62
+            ],
+            [
+              21,
+              118,
+              30
+            ],
+            [
+              27,
+              16,
+              12
+            ]
+          ]
+        }
+      },
+      "matches_reference": true,
+      "mismatched_fields": [],
+      "reference_accuracy": 0.622,
+      "reference_macro_f1": 0.5233853439252281
+    },
+    "B": {
+      "recomputed": {
+        "n": 500,
+        "correct": 353,
+        "accuracy": 0.706,
+        "macro_f1": 0.5467696696193954,
+        "per_class": {
+          "yes": {
+            "precision": 0.7743055555555556,
+            "recall": 0.8079710144927537,
+            "f1": 0.7907801418439716,
+            "support": 276,
+            "predicted_count": 288
+          },
+          "no": {
+            "precision": 0.6966292134831461,
+            "recall": 0.7337278106508875,
+            "f1": 0.7146974063400576,
+            "support": 169,
+            "predicted_count": 178
+          },
+          "maybe": {
+            "precision": 0.17647058823529413,
+            "recall": 0.10909090909090909,
+            "f1": 0.1348314606741573,
+            "support": 55,
+            "predicted_count": 34
+          }
+        },
+        "confusion_matrix": {
+          "row_labels": [
+            "yes",
+            "no",
+            "maybe"
+          ],
+          "column_labels": [
+            "yes",
+            "no",
+            "maybe"
+          ],
+          "values": [
+            [
+              223,
+              36,
+              17
+            ],
+            [
+              34,
+              124,
+              11
+            ],
+            [
+              31,
+              18,
+              6
+            ]
+          ]
+        }
+      },
+      "matches_reference": true,
+      "mismatched_fields": [],
+      "reference_accuracy": 0.706,
+      "reference_macro_f1": 0.5467696696193954
+    }
+  },
+  "gold_selection": {
+    "source_cases": 1000,
+    "source_unique_pmids": 1000,
+    "official_test_pmids": 500,
+    "matched_unique_cases": 500,
+    "excluded_cases": 500,
+    "test_pmids_sha256": "47849e7e0720ae18baf9d49e35c40a1a4975eb277c5d2ceb917b57b7ad7f72fb"
+  },
+  "source_files": {
+    "created_at_utc": "2026-11-16T12:52:38.274Z",
+    "source": "Original Q4 Drive artifacts, copied as UTF-8 without content changes",
+    "files": [
+      {
+        "file": "base_predictions.json",
+        "bytes": 189409,
+        "sha256": "515c1b969748cd25f3fc44131198eecc432e264de3a92c65ca3e7cba5bf543c1",
+        "n_predictions": 500,
+        "source_modified_utc": "2026-11-07T08:29:56.307Z"
+      },
+      {
+        "file": "A_predictions.json",
+        "bytes": 189128,
+        "sha256": "575ff9ab7f7aa73b0471bb10eb7985e1d8363f2c145b3a8842a60cc75a3ed649",
+        "n_predictions": 500,
+        "source_modified_utc": "2026-11-07T08:31:29.450Z"
+      },
+      {
+        "file": "B_predictions.json",
+        "bytes": 190366,
+        "sha256": "1492a4d5eeef3cacab5a3a8ae5a9febfaf241c1430eaddf49880af01c3c92095",
+        "n_predictions": 500,
+        "source_modified_utc": "2026-11-07T08:33:03.385Z"
+      },
+      {
+        "file": "manifest.json",
+        "bytes": 2561,
+        "sha256": "415a290922cd554d2676b3ddb60d9a3d0282fb70b61630ceed442ecfb5b1de6d",
+        "n_predictions": 0,
+        "source_modified_utc": "2026-11-07T08:28:36.884Z"
+      }
+    ]
+  },
+  "reference_sha256": "731cf4e8a96ba3b8e1daca57436463fcd6b53cc82b7c97e416139a21559af70a",
+  "audit_script_sha256": "97ad1affbdc061a12a8fb328661b3d59deafcc783da348d0afbe1f92a06129e3",
+  "new_inference": false,
+  "training": false,
+  "Q4b_accessed": false
+}
