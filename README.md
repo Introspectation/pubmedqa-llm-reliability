@@ -8,6 +8,8 @@ A research harness for evaluating Qwen3-1.7B on medical questions with supplied 
 
 Start with the [CPU reproduction guide](repro/qlora/README.md) to verify the saved Q4 predictions. The [original specification](<PROJECT_TEMPLATE (2).md>) records the starting scope.
 
+The optional [evaluation results API](eval_api/README.md) serves the saved Phase 1 and Q4 aggregates over HTTP using SQLite.
+
 ## Structure
 
 ```text
