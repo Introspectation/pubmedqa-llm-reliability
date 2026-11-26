@@ -6,6 +6,8 @@ This research project evaluates Qwen3-1.7B on medical questions paired with PubM
 
 ## Results at a glance
 
+Phase 1 accuracy (65.4%) comes from Ollama/GGUF generated labels, and Q4 Base accuracy (40.8%) comes from Hugging Face/NF4 candidate-label scoring, so a direct comparison would mix runtime and scoring effects.
+
 | Evaluation | Finding |
 | --- | --- |
 | [Phase 1 · Ollama generation](results/phase1-full/results-summary.json) | On the 500 official PubMedQA test questions, accuracy was 65.4% and macro-F1 was 0.469. In 483/500 cases, the quoted text matched the supplied abstract. |
@@ -313,6 +315,8 @@ Base, A, and B each produced one response for each of 20 synthetic cases. The au
 | A | 0/16 | 2/4 | 4/20 |
 | B | 0/16 | 2/4 | 4/20 |
 
+Base's seven responses at the 512-token cap were scored on their visible text and included in the Q4b pass rates, and the effect of a higher cap remains unknown.
+
 All 20 paired pass/fail decisions agreed across variants. The strict rubric produced a floor on risk cases, and the report records differences visible in individual responses. Severity and item-level coverage were unscored. This small synthetic screen establishes neither clinical readiness nor equivalent safety. [Frozen rubric](repro/qlora/optimized/q4b_safety_rubric.md) · [Safety report](repro/qlora/optimized/q4b_safety_report.md)
 
 ## Local judge pilot for quote support
@@ -321,7 +325,7 @@ The 20-case pilot used 10 correct and 10 incorrect answers sampled from the 483 
 
 | Judge | Valid outputs | Agreement with initial human labels | Cohen's kappa |
 | --- | ---: | ---: | ---: |
-| Qwen3 8B | 20/20 | 9/20 | ?0.038 |
+| Qwen3 8B | 20/20 | 9/20 | -0.038 |
 | Ministral 3 | 20/20 | 8/20 | 0.055 |
 
 The human labels are in the [pilot workbook](results/judge-pilot/human_labels.xlsx). The captured judgments and model manifests are in [the pilot artifacts](results/judge-pilot/). The `human_labels.csv` file is the original blank template. Sampling balanced correctness rather than quote support, so this pilot measures agreement on the selected cases. It cannot estimate the support rate across all 483 matching quotes.
