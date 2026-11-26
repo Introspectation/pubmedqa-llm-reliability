@@ -1,14 +1,46 @@
 # Small LLM Reliability Evaluation for Medical Question Answering
 
-A research harness for evaluating Qwen3-1.7B on medical questions with supplied abstracts. It covers generated answers and quotes in Ollama, held-out label scoring before and after QLoRA, and a blinded human safety screen on synthetic cases.
+This research project evaluates Qwen3-1.7B on medical questions paired with PubMed abstracts. It measures answer quality, checks whether model quotes appear in the abstract, and screens generated responses on synthetic safety cases.
 
-- **Phase 1:** 65.4% accuracy and 0.469 macro-F1 on the 500 official PubMedQA test cases. 483/500 quotes matched the supplied abstract.
-- **Q4:** With the same Hugging Face scorer across all three variants, macro-F1 was 0.409 for Base, 0.523 for adapter A, and 0.547 for adapter B. Performance on `maybe` declined after fine-tuning.
-- **Q4b:** All three variants passed 0/16 synthetic risk cases and 2/4 controls under the frozen rubric.
+[Try the results API](#try-the-results-api) · [Reproduce the Q4 scores on CPU](repro/qlora/README.md)
 
-Start with the [CPU reproduction guide](repro/qlora/README.md) to verify the saved Q4 predictions. The [original specification](<PROJECT_TEMPLATE (2).md>) records the starting scope.
+## Results at a glance
 
-The optional [evaluation results API](eval_api/README.md) serves the saved Phase 1 and Q4 aggregates over HTTP using SQLite.
+| Evaluation | Finding |
+| --- | --- |
+| [Phase 1 · Ollama generation](results/phase1-full/results-summary.json) | On the 500 official PubMedQA test questions, accuracy was 65.4% and macro-F1 was 0.469. In 483/500 cases, the quoted text matched the supplied abstract. |
+| [Q4 · Held-out label scoring](repro/qlora/optimized/q4_heldout_eval.json) | Under the same Hugging Face scoring protocol, macro-F1 was 0.409 for Base, 0.523 for Adapter A, and 0.547 for Adapter B. |
+| [Q4b · Blinded synthetic safety screen](repro/qlora/optimized/q4b_safety_report.md) | Under the frozen rubric, each variant passed 0/16 risk cases and 2/4 controls. |
+
+### Adapter B stopped overpredicting `maybe` and now rarely catches it
+
+![Q4 recall by answer class. Base predicts maybe 265 times and correctly identifies 37 of 55 true cases. Adapter B predicts maybe 34 times and correctly identifies 6 of 55.](results/q4-class-recall.png)
+
+| Q4 metric | Base | QLoRA Adapter B |
+| --- | ---: | ---: |
+| Predicted `maybe` | 265 | 34 |
+| Correct `maybe` predictions | 37 | 6 |
+| `maybe` precision | 14.0% (37/265) | 17.6% (6/34) |
+| `maybe` recall | 67.3% (37/55) | 10.9% (6/55) |
+
+False-positive `maybe` predictions fell from 228 to 28, while missed true `maybe` cases rose from 18 to 49. See the [confusion matrices](#base-and-adapter-b-confusion-matrices) and [caveats](#caveats) below.
+
+Install Matplotlib with `python -m pip install matplotlib==3.10.8`, then regenerate the PNG with `python scripts/make_figures.py`.
+
+## Try the results API
+
+Use the [local FastAPI setup](eval_api/README.md) to browse the saved Phase 1 and Q4 aggregates. This example shows the Q4 entry returned by `GET /runs`.
+
+```json
+{
+  "id": "q4-heldout",
+  "protocol": "label_score_v1",
+  "n": 500,
+  "source": "repro/qlora/optimized/q4_heldout_eval.json"
+}
+```
+
+The [original specification](<PROJECT_TEMPLATE (2).md>) records the starting scope.
 
 ## Structure
 
@@ -243,7 +275,33 @@ All three Hugging Face variants used the pinned Qwen3-1.7B revision, the frozen 
 | HF A · labeled only | 311/500 | 62.2% | 0.5234 | 0.1509 |
 | HF B · labeled + artificial | 353/500 | 70.6% | 0.5468 | 0.1348 |
 
-`maybe` recall fell from 37/55 for Base to 12/55 for A and 6/55 for B. A and B also differed in training volume, batching, and dev checkpoint selection, so the B–A difference cannot isolate the effect of artificial data. The held-out set was previously scored and inspected during Phase 1. The Ollama row above uses GGUF generation with a schema and an exact-quote check, a separate runtime and protocol from the HF label scorer.
+`maybe` recall fell from 37/55 for Base to 12/55 for A and 6/55 for B.
+
+### Base and Adapter B confusion matrices
+
+Rows are true labels, columns are predicted labels. Each matrix covers the same 500 official test questions.
+
+**Base**
+
+| True label | Predicted `yes` | Predicted `no` | Predicted `maybe` |
+| --- | ---: | ---: | ---: |
+| `yes` | 74 | 44 | 158 |
+| `no` | 6 | 93 | 70 |
+| `maybe` | 9 | 9 | 37 |
+
+**QLoRA Adapter B**
+
+| True label | Predicted `yes` | Predicted `no` | Predicted `maybe` |
+| --- | ---: | ---: | ---: |
+| `yes` | 223 | 36 | 17 |
+| `no` | 34 | 124 | 11 |
+| `maybe` | 31 | 18 | 6 |
+
+### Caveats
+
+- Adapter A selected its checkpoint using dev macro-F1 from generated JSON. Adapter B used `label_score_v1` for dev checkpoint selection. They also differed in training volume and batching, so the B–A difference combines several changes.
+- The test set contains only 55 true `maybe` cases, and Adapter B made only 34 `maybe` predictions. The recall and precision estimates for this class are noisy.
+- The held-out set was previously scored and inspected during Phase 1. The Ollama row above uses GGUF generation with a schema and an exact-quote check, a separate runtime and protocol from the HF label scorer.
 
 ## Synthetic safety screen (Q4b)
 
